@@ -1,0 +1,45 @@
+No MAHOUT_CONF_DIR found
+Running on hadoop, using /usr/local/bin/hadoop and HADOOP_CONF_DIR=
+MAHOUT-JOB: /usr/local/Cellar/mahout/0.9/libexec/mahout-examples-0.9-job.jar
+Input Path: /Users/leer15/Projects/BBC/recommender/pipeline/recommendations/processed/matrix/docIndex
+Key class: class org.apache.hadoop.io.IntWritable Value Class: class org.apache.hadoop.io.Text
+Key: 0: Value: /03e04ead-165c-4c10-a2f9-b5e9d177ad13
+Key: 1: Value: /03ecb3e0-29cc-4d7a-bd64-13cbb1f129d2
+Key: 2: Value: /1ea332eb-2610-45b0-b678-2a08ec4478bb
+Key: 3: Value: /3c3c551e-b6fc-4ede-a0b6-c464c36208ee
+Key: 4: Value: /437b178f-2d0a-4cec-a0a1-9c0271a5bb0f
+Key: 5: Value: /47138ea2-3e0c-4f96-9a9e-78aec48e721d
+Key: 6: Value: /4792a2b6-ddf2-4905-842a-86c9249e9c44
+Key: 7: Value: /48d098c7-4dd1-4a34-9cea-fc83845b9971
+Key: 8: Value: /49f8eea9-4133-431b-b28e-bb43511298df
+Key: 9: Value: /4cb3da72-c84d-42af-a6d4-e43e78b36090
+Key: 10: Value: /4ff581ff-0878-4c8f-9a6c-f8243f233a6e
+Key: 11: Value: /5079546f-b24b-40cf-9b38-2faa88440814
+Key: 12: Value: /50d2e73e-1f8d-41d7-b087-1cadc47f220b
+Key: 13: Value: /5c325358-9408-43d0-bc36-24657a904c23
+Key: 14: Value: /5f4449b8-c1ee-410c-ac71-8ff6f163dbfe
+Key: 15: Value: /6547cf94-ce0b-4073-9e4e-38a61520debb
+Key: 16: Value: /6b4c4d84-c1c3-4649-b182-b0cdf9c30f4e
+Key: 17: Value: /6da07591-8a6d-47d3-9747-c95d4358f95b
+Key: 18: Value: /733dbefe-8258-4887-b5e6-831ae04a2d8e
+Key: 19: Value: /78f190f1-836d-413c-9719-bf6e2559039e
+Key: 20: Value: /79dea367-d2d5-4db9-a080-773ca9608b2b
+Key: 21: Value: /7a205513-c33c-4096-bb98-7918258e84b6
+Key: 22: Value: /8080ece1-5142-4bbe-b40b-c6c78199c85e
+Key: 23: Value: /86eae224-5822-43ed-829e-bc639b0485a2
+Key: 24: Value: /998a5c08-d76f-468f-8e7a-9e8421e149ab
+Key: 25: Value: /a22ddf8c-dc53-47c0-bb6b-91af5ee60c96
+Key: 26: Value: /c02866c1-454d-4907-9c6c-d5e790125e77
+Key: 27: Value: /c7efbfb9-efac-4f95-be2d-f48597cd7522
+Key: 28: Value: /ca07e9d7-d8a0-4adb-89dd-0c3f25ce44b0
+Key: 29: Value: /cdc5f020-51b6-405b-88c7-04a51adc8dfc
+Key: 30: Value: /d813d910-9134-49a3-b2c3-8c848e1dd1a4
+Key: 31: Value: /d95942a4-2a48-428d-82b4-1e5971d4c63a
+Key: 32: Value: /e34acfdb-593f-450a-b438-772716d89e5a
+Key: 33: Value: /e416cbad-617a-4928-83d9-69de4c3cdcbf
+Key: 34: Value: /e7acfc4f-9096-453a-89bd-de6c7b0c55a6
+Key: 35: Value: /e9424bd4-ec1f-479d-acf7-d794dc85938b
+Key: 36: Value: /ec07adbf-cbc0-415f-b918-19e460fd2340
+Key: 37: Value: /f31b46ba-3a59-4dde-8787-b848c701b46c
+Key: 38: Value: /faacdc52-3d62-44b0-aabb-8809575c1863
+Count: 39
