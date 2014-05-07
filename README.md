@@ -31,8 +31,8 @@ The pipeline can be seen as 3 steps:
 ## Aquire
 
 This step identifies content to be operated on and downloads the pages identified.  It is performed in two steps:
-# Retrieve some source content links and persists them
-# Download content from above links and persist it
+* Retrieve some source content links and persists them
+* Download content from above links and persist it
 
 This can be achieved by running three scripts:
 ./scripts/retrieve_links.sh arts
