@@ -1,0 +1,196 @@
+url,text
+http://www.bbc.co.uk/religion/0/,BBC Religion & Ethics
+http://www.bbc.co.uk/religion/0/18395819,BBC Religion & Ethics - Bettany Hughes: Is religion good for women?
+http://www.bbc.co.uk/religion/0/18395824,BBC Religion & Ethics - Who were the twelve disciples?
+http://www.bbc.co.uk/religion/0/24924746,BBC Religion & Ethics - Doctor Who: Time travel through faith
+http://www.bbc.co.uk/religion/0/27116504,BBC Religion & Ethics - Saint John Paul II: The magnificent enigma
+http://www.bbc.co.uk/religion/0/22545309,BBC Religion & Ethics - The British women converting to Islam
+http://www.bbc.co.uk/religion/0/22078377,BBC Religion & Ethics - Perspectives: A fishy dilemma?
+http://www.bbc.co.uk/religion/0/24744499,BBC Religion & Ethics - Zwarte Piet: Is 'Black Pete' a racist Dutch ...
+http://www.bbc.co.uk/religion/0/19718200,Archbishop of Canterbury: Who makes the final selection? - BBC.com
+http://www.bbc.co.uk/religion/0/24549218,BBC Religion & Ethics - Sex appeal: Is it wrong to use it to get what ...
+http://www.bbc.co.uk/religion/0/20972171,Perspectives: Genesis v Darwin - BBC
+http://www.bbc.co.uk/religion/0/21924253,Pesach: A very different night - BBC.com
+http://www.bbc.co.uk/religion/0/19192886,BBC Religion & Ethics - Profile: Jonathan Sacks
+http://www.bbc.co.uk/religion/0/18884075,BBC Religion & Ethics - Coptic Church: Who is the Egyptian Pope?
+http://www.bbc.co.uk/religion/0/20755401,Analysis: The end of the world? - BBC
+http://www.bbc.co.uk/religion/0/26740099,BBC Religion & Ethics - The last Jews of Calcutta
+http://www.bbc.co.uk/religion/0/23260381,Q&A: The ethics of organ donation - BBC
+http://www.bbc.co.uk/religion/0/19354861,Chief Rabbi and atheist to debate - BBC
+http://www.bbc.co.uk/religion/0/21235888,Memories of Kumbh Mela: The greatest show on Earth - BBC
+http://www.bbc.co.uk/religion/0/22688824,The biblical task of Bible translation - BBC.com
+http://www.bbc.co.uk/religion/0/23448808,Interest rates - What religions say - BBC
+http://www.bbc.co.uk/religion/0/18490233,who were the Vestal Virgins? - BBC
+http://www.bbc.co.uk/religion/0/22337834,Mocking faith - how far can you go? - BBC
+http://www.bbc.co.uk/religion/0/21459463,BBC Religion & Ethics - Perspectives: Can you be gay and Catholic?
+http://www.bbc.co.uk/religion/0/24661333,How prayers helped end the Cold War - BBC
+http://www.bbc.co.uk/religion/0/20313633,The art of selling cigarettes - BBC
+http://www.bbc.co.uk/religion/0/24623370,"BBC Religion & Ethics - Halloween: Witches, old rites and modern fun"
+http://www.bbc.co.uk/religion/0/22889768,BBC Religion & Ethics - Perspectives: Are baby boomers to blame ...
+http://www.bbc.co.uk/religion/0/18591686,BBC Religion & Ethics - Food: the last bastion of faith?
+http://www.bbc.co.uk/religion/0/22537735,Hannah Habibi: Joining the dots between pop art and Islam - BBC
+http://www.bbc.co.uk/religion/0/20680865,BBC Religion & Ethics - Silent Night is the world's most translated carol
+http://www.bbc.co.uk/religion/0/18548696,Fasting retreats: Why pay a premium to go hungry? - BBC
+http://www.bbc.co.uk/religion/0/23547664,BBC Religion & Ethics - Should cloned mammoths roam the Earth?
+http://www.bbc.co.uk/religion/0/21829342,BBC Religion & Ethics - Film-maker Kim Longinotto: Uncovering a ...
+http://www.bbc.co.uk/religion/0/19847046,Profile: New Archbishop of Canterbury Justin Welby - BBC
+http://www.bbc.co.uk/religion/0/19742945,BBC Religion & Ethics - Young at Hajj
+http://www.bbc.co.uk/religion/0/19728462,"In Pictures: Martin Luther, Wittenberg and the Reformation - BBC.com"
+http://www.bbc.co.uk/religion/0/18533470,Summer Solstice celebrations at Stonehenge - BBC.com
+http://www.bbc.co.uk/religion/0/25007192,BBC Religion & Ethics - Inside Lent
+http://www.bbc.co.uk/religion/0/21415432,The pressures on a 21st Century Pope - BBC.com
+http://www.bbc.co.uk/religion/0/20087814,Obama dilemma for Black Churches - BBC
+http://www.bbc.co.uk/religion/0/24660239,The power of miracles: Naples's prodigious blood - BBC
+http://www.bbc.co.uk/religion/0/25597072,BBC Religion & Ethics - Easter Day: Inside joy
+http://www.bbc.co.uk/religion/0/25595710,BBC Religion & Ethics - Lent: Inside doubt
+http://www.bbc.co.uk/religion/0/25596067,BBC Religion & Ethics - Lent: Inside anger
+http://www.bbc.co.uk/religion/0/20607719,A year in the life of Westminster Abbey - BBC
+http://www.bbc.co.uk/religion/0/21953451,BBC Religion & Ethics - Easter: Why is it so early this year?
+http://www.bbc.co.uk/religion/0/19342343,In pictures: Rosslyn Chapel - BBC
+http://www.bbc.co.uk/religion/0/24706419,Perspectives: The Quilliam Foundation - fighting extremism - BBC.com
+http://www.bbc.co.uk/religion/0/24742248,BBC Religion & Ethics - Profile: Clive Staples (C.S.) Lewis
+http://www.bbc.co.uk/religion/0/24742248,BBC Religion & Ethics - Profile: Clive Staples (C.S.) Lewis
+http://www.bbc.co.uk/religion/0/26081279,BBC Religion & Ethics - The role of cardinals in the Catholic Church
+http://www.bbc.co.uk/religion/0/19317422,Meet the patron saint of astronauts - BBC
+http://www.bbc.co.uk/religion/0/19588121,BBC Religion & Ethics - BBC RE:Think Festival round-up
+http://www.bbc.co.uk/religion/0/19467151,BBC Religion & Ethics - The Society of Jesus: Who are the Jesuits?
+http://www.bbc.co.uk/religion/0/19316911,"BBC Religion & Ethics - In Pictures: Hindu Chariot festival, Ratha Yatra"
+http://www.bbc.co.uk/religion/0/19700221,BBC Religion & Ethics - Temperance and modern Methodism's bid ...
+http://www.bbc.co.uk/religion/0/22887499,BBC Religion & Ethics - Q&A: The right to privacy
+http://www.bbc.co.uk/religion/0/20786572,BBC Religion & Ethics - Did the heavens predict a king?
+http://www.bbc.co.uk/religion/0/20627618,BBC Religion & Ethics - Exploring Rome's 'sacred sewers'
+http://www.bbc.co.uk/religion/0/19465215,Caring for Super League's elite - BBC
+http://www.bbc.co.uk/religion/0/21939126,Melvyn Bragg At the Church of the Holy Sepulchre - BBC
+http://www.bbc.co.uk/religion/0/21127424,BBC Religion & Ethics - Who is Myrlie Evers-Williams?
+http://www.bbc.co.uk/religion/0/19640799,Dead Good Job: A look inside the funeral trade - BBC
+http://www.bbc.co.uk/religion/0/23928432,BBC Religion & Ethics - Q&A: What is it like to be a woman bishop?
+http://www.bbc.co.uk/religion/0/21381059,BBC Religion & Ethics - The re-birth of an icon: she can do it
+http://www.bbc.co.uk/religion/0/21043398,"BBC Religion & Ethics - Children of the Holocaust: their words, their ..."
+http://www.bbc.co.uk/religion/0/22166363,"St George, a mythical martyr? - BBC"
+http://www.bbc.co.uk/religion/0/21058238,BBC Religion & Ethics - Our Story: Journeys of Faith
+http://www.bbc.co.uk/religion/0/24240085,The Y-word: Pride or prejudice? - BBC.com
+http://www.bbc.co.uk/religion/0/23728202,BBC Religion & Ethics - Profile: Ephraim Mirvis
+http://www.bbc.co.uk/religion/0/18786736,"Ampleforth Abbey: How monks mix God, booze and business - BBC"
+http://www.bbc.co.uk/religion/0/24865379,Religion in the Chronicles of Narnia - BBC
+http://www.bbc.co.uk/religion/0/21943309,UK's first pop-up cathedral opens in Manchester - BBC
+http://www.bbc.co.uk/religion/0/21615021,BBC Religion & Ethics - The quest to find Britain's holiest place
+http://www.bbc.co.uk/religion/0/24660240,BBC Religion & Ethics - Can a scientist believe in miracles?
+http://www.bbc.co.uk/religion/0/24910759,Sachin Tendulkar: The living god - BBC
+http://www.bbc.co.uk/religion/0/21883918,Perspectives: Should Britain become a secular state? - BBC
+http://www.bbc.co.uk/religion/0/25596402,BBC Religion & Ethics - Lent: Inside love
+http://www.bbc.co.uk/religion/0/24338285,Can an inter-faith marriage work? - BBC
+http://www.bbc.co.uk/religion/0/19341775,BBC Religion & Ethics - How wild can an urban cemetery be?
+http://www.bbc.co.uk/religion/0/21532400,BBC Religion & Ethics - Q&A: The ethics of street photography
+http://www.bbc.co.uk/religion/0/20767427,BBC Religion & Ethics - David Suchet: In the footsteps of Saint Paul
+http://www.bbc.co.uk/religion/0/24365067,BBC Religion & Ethics - Balancing Sharia: The Ottoman Kanun
+http://www.bbc.co.uk/religion/0/22846550,BBC Religion & Ethics - In pictures: What is an illuminated manuscript?
+http://www.bbc.co.uk/religion/0/21588667,Lindisfarne Gospels: Why is this book so special? - BBC
+http://www.bbc.co.uk/religion/0/21424966,BBC Religion & Ethics - Analysis: What is the role of a modern pope?
+http://www.bbc.co.uk/religion/0/19150793,BBC Religion & Ethics - What are the main Jewish festivals?
+http://www.bbc.co.uk/religion/0/21834319,BBC Religion & Ethics - Canterbury: The Church of England's capital
+http://www.bbc.co.uk/religion/0/19093978,Who will the next Archbishop of Canterbury be? - BBC.com
+http://www.bbc.co.uk/religion/0/19177976,BBC Religion & Ethics - Profile: Richard Dawkins
+http://www.bbc.co.uk/religion/0/19786569,BBC Religion & Ethics - Tractors blessed at Llangybi harvest festival
+http://www.bbc.co.uk/religion/0/20435510,BBC Religion & Ethics - Who owns St Andrew's Day?
+http://www.bbc.co.uk/religion/0/19397550,Cathedral-licker Lawrence Edmonds heads for Wales - BBC
+http://www.bbc.co.uk/religion/0/24535331,BBC Religion & Ethics - Kelvin's conundrum: Is it possible to believe ...
+http://www.bbc.co.uk/religion/0/20525346,Male leadership of Church is not misogyny - BBC.com
+http://www.bbc.co.uk/religion/0/24367826,The modern hermit living in an end-of-terrace house - BBC
+http://www.bbc.co.uk/religion/0/24986104,BBC Religion & Ethics - Is forgiveness always possible?
+http://www.bbc.co.uk/religion/0/22728533,Has man been good for the planet? - BBC
+http://www.bbc.co.uk/religion/0/25596680,BBC Religion & Ethics - Lent: Inside hope
+http://www.bbc.co.uk/religion/0/19505164,"BBC Religion & Ethics - Profile: Bishop of Liverpool, the Right ..."
+http://www.bbc.co.uk/religion/0/21955406,BBC Religion & Ethics - Archbishop on Thought for the Day
+http://www.bbc.co.uk/religion/0/19747797,BBC Religion & Ethics - Profile: Archbishop John Sentamu
+http://www.bbc.co.uk/religion/0/25415140,Pope 'teaches liberation theology' - BBC
+http://www.bbc.co.uk/religion/0/23096274,BBC Religion & Ethics - Miracles and ducks: Who was St Cuthbert?
+http://www.bbc.co.uk/religion/0/25184228,BBC Religion & Ethics - Dhammaloka: The Irish Buddhist monk who ...
+http://www.bbc.co.uk/religion/0/20394641,BBC Religion & Ethics - Why are there seven days in a week?
+http://www.bbc.co.uk/religion/0/19475393,BBC Religion & Ethics - Ex-gay survivor's tales of exorcism in middle ...
+http://www.bbc.co.uk/religion/0/25008208,BBC Religion & Ethics - Lent: Inside temptation
+http://www.bbc.co.uk/religion/0/19584904,Bishop Jones kept names of 96 Hillsborough dead on desk - BBC
+http://www.bbc.co.uk/religion/0/21634093,BBC Religion & Ethics - Ifor ap Glyn at Pennant Melangell
+http://www.bbc.co.uk/religion/0/23412700,Coming to terms with transsexuality - BBC
+http://www.bbc.co.uk/religion/0/19548303,BBC Religion & Ethics - Watch RE:Think 2012 live
+http://www.bbc.co.uk/religion/0/25596419,BBC Religion & Ethics - Lent: Inside fear
+http://www.bbc.co.uk/religion/0/22001692,WWII Quaker service gets memorial - BBC.com
+http://www.bbc.co.uk/religion/0/19561565,BBC Religion & Ethics - Full schedule: RE:Think festival 2012
+http://www.bbc.co.uk/religion/0/19077358,Lesser-known English cathedrals - BBC
+http://www.bbc.co.uk/religion/0/20909447,The history of beer: Monastic brewing traditions - BBC.com
+http://www.bbc.co.uk/religion/0/20005506,BBC Religion & Ethics - Can you be ethical and rich?
+http://www.bbc.co.uk/religion/0/21160964,In Pictures: Stieve's List - BBC.com
+http://www.bbc.co.uk/religion/0/19475935,Chief Rabbi meets Prof Dawkins - BBC.com
+http://www.bbc.co.uk/religion/0/19992285,BBC Religion & Ethics - How the Church of England is engaging ...
+http://www.bbc.co.uk/religion/0/24209072,BBC Religion & Ethics - Do you care where you are buried?
+http://www.bbc.co.uk/religion/0/22509226,Should assisted suicide be legal? - BBC
+http://www.bbc.co.uk/religion/0/19813272,Benares' Burning Ghats: Where the dead become nothing - BBC.com
+http://www.bbc.co.uk/religion/0/19563336,BBC Religion & Ethics - Dawkins and Sacks in 'anti-semitic' row
+http://www.bbc.co.uk/religion/0/19095441,BBC Religion & Ethics - In pictures: Britain's hidden churches
+http://www.bbc.co.uk/religion/0/20005503,Is there a moral crisis in Britain? - BBC.com
+http://www.bbc.co.uk/religion/0/21580964,Edith Hope's journey from Scottish lass to Buddhist nun - BBC
+http://www.bbc.co.uk/religion/0/20005503,Is there a moral crisis in Britain? - BBC.com
+http://www.bbc.co.uk/religion/0/21580964,Edith Hope's journey from Scottish lass to Buddhist nun - BBC
+http://www.bbc.co.uk/religion/0/19272231,BBC Religion & Ethics - Can city cemeteries be nature reserves?
+http://www.bbc.co.uk/religion/0/20393178,Jesus was a feminist and so am I - BBC
+http://www.bbc.co.uk/religion/0/20203949,What do Mormons believe? - BBC
+http://www.bbc.co.uk/religion/0/20789614,David Suchet reads from 1 Corinthians on love - BBC
+http://www.bbc.co.uk/religion/0/22271809,Scots say 'I do' to Humanist weddings - BBC
+http://www.bbc.co.uk/religion/0/20617780,BBC Religion & Ethics - Did the Romans invent Christmas?
+http://www.bbc.co.uk/religion/0/19660805,BBC Religion & Ethics - The Gospel of Jesus's Wife
+http://www.bbc.co.uk/religion/0/20184882,BBC Religion & Ethics - In pictures: Cruel entertainment
+http://www.bbc.co.uk/religion/0/25960730,This is a testimony that God exists - BBC
+http://www.bbc.co.uk/religion/0/19572634,Roman business-women sponsored early Christians - BBC
+http://www.bbc.co.uk/religion/0/19464305,BBC Religion & Ethics - In pictures: Blackpool's religious souvenirs
+http://www.bbc.co.uk/religion/0/20711434,Rome's calendar 'a hybrid of Christian and pagan' dates - BBC
+http://www.bbc.co.uk/religion/0/25928063,BBC Religion & Ethics - Jacalyn Duffin: 'How I met the Pope'
+http://www.bbc.co.uk/religion/0/20669362,Folklore roots of Christmas carol - BBC.com
+http://www.bbc.co.uk/religion/0/20067732,BBC Religion & Ethics - Building an ethical wind turbine
+http://www.bbc.co.uk/religion/0/20693321,"BBC Religion & Ethics - Pagan beliefs: nature, druids and witches"
+http://www.bbc.co.uk/religion/0/21276786,BBC Religion & Ethics - Perspectives: Is torture ever justified?
+http://www.bbc.co.uk/religion/0/25960730,This is a testimony that God exists - BBC
+http://www.bbc.co.uk/religion/0/19572634,Roman business-women sponsored early Christians - BBC
+http://www.bbc.co.uk/religion/0/19464305,BBC Religion & Ethics - In pictures: Blackpool's religious souvenirs
+http://www.bbc.co.uk/religion/0/20711434,Rome's calendar 'a hybrid of Christian and pagan' dates - BBC
+http://www.bbc.co.uk/religion/0/25928063,BBC Religion & Ethics - Jacalyn Duffin: 'How I met the Pope'
+http://www.bbc.co.uk/religion/0/20669362,Folklore roots of Christmas carol - BBC.com
+http://www.bbc.co.uk/religion/0/20067732,BBC Religion & Ethics - Building an ethical wind turbine
+http://www.bbc.co.uk/religion/0/20693321,"BBC Religion & Ethics - Pagan beliefs: nature, druids and witches"
+http://www.bbc.co.uk/religion/0/21276786,BBC Religion & Ethics - Perspectives: Is torture ever justified?
+http://www.bbc.co.uk/religion/0/20693321,"BBC Religion & Ethics - Pagan beliefs: nature, druids and witches"
+http://www.bbc.co.uk/religion/0/21276786,BBC Religion & Ethics - Perspectives: Is torture ever justified?
+http://www.bbc.co.uk/religion/0/25960730,This is a testimony that God exists - BBC
+http://www.bbc.co.uk/religion/0/19572634,Roman business-women sponsored early Christians - BBC
+http://www.bbc.co.uk/religion/0/19464305,BBC Religion & Ethics - In pictures: Blackpool's religious souvenirs
+http://www.bbc.co.uk/religion/0/20711434,Rome's calendar 'a hybrid of Christian and pagan' dates - BBC
+http://www.bbc.co.uk/religion/0/25928063,BBC Religion & Ethics - Jacalyn Duffin: 'How I met the Pope'
+http://www.bbc.co.uk/religion/0/20669362,Folklore roots of Christmas carol - BBC.com
+http://www.bbc.co.uk/religion/0/20067732,BBC Religion & Ethics - Building an ethical wind turbine
+http://www.bbc.co.uk/religion/0/20693321,"BBC Religion & Ethics - Pagan beliefs: nature, druids and witches"
+http://www.bbc.co.uk/religion/0/21276786,BBC Religion & Ethics - Perspectives: Is torture ever justified?
+http://www.bbc.co.uk/religion/0/25960730,This is a testimony that God exists - BBC
+http://www.bbc.co.uk/religion/0/19572634,Roman business-women sponsored early Christians - BBC
+http://www.bbc.co.uk/religion/0/19464305,BBC Religion & Ethics - In pictures: Blackpool's religious souvenirs
+http://www.bbc.co.uk/religion/0/20711434,Rome's calendar 'a hybrid of Christian and pagan' dates - BBC
+http://www.bbc.co.uk/religion/0/25928063,BBC Religion & Ethics - Jacalyn Duffin: 'How I met the Pope'
+http://www.bbc.co.uk/religion/0/20669362,Folklore roots of Christmas carol - BBC.com
+http://www.bbc.co.uk/religion/0/20067732,BBC Religion & Ethics - Building an ethical wind turbine
+http://www.bbc.co.uk/religion/0/20693321,"BBC Religion & Ethics - Pagan beliefs: nature, druids and witches"
+http://www.bbc.co.uk/religion/0/21276786,BBC Religion & Ethics - Perspectives: Is torture ever justified?
+http://www.bbc.co.uk/religion/0/25960730,This is a testimony that God exists - BBC
+http://www.bbc.co.uk/religion/0/19572634,Roman business-women sponsored early Christians - BBC
+http://www.bbc.co.uk/religion/0/19464305,BBC Religion & Ethics - In pictures: Blackpool's religious souvenirs
+http://www.bbc.co.uk/religion/0/20711434,Rome's calendar 'a hybrid of Christian and pagan' dates - BBC
+http://www.bbc.co.uk/religion/0/25928063,BBC Religion & Ethics - Jacalyn Duffin: 'How I met the Pope'
+http://www.bbc.co.uk/religion/0/20669362,Folklore roots of Christmas carol - BBC.com
+http://www.bbc.co.uk/religion/0/20067732,BBC Religion & Ethics - Building an ethical wind turbine
+http://www.bbc.co.uk/religion/0/20693321,"BBC Religion & Ethics - Pagan beliefs: nature, druids and witches"
+http://www.bbc.co.uk/religion/0/21276786,BBC Religion & Ethics - Perspectives: Is torture ever justified?
+http://www.bbc.co.uk/religion/0/25960730,This is a testimony that God exists - BBC
+http://www.bbc.co.uk/religion/0/19572634,Roman business-women sponsored early Christians - BBC
+http://www.bbc.co.uk/religion/0/19464305,BBC Religion & Ethics - In pictures: Blackpool's religious souvenirs
+http://www.bbc.co.uk/religion/0/20711434,Rome's calendar 'a hybrid of Christian and pagan' dates - BBC
+http://www.bbc.co.uk/religion/0/25928063,BBC Religion & Ethics - Jacalyn Duffin: 'How I met the Pope'
+http://www.bbc.co.uk/religion/0/20669362,Folklore roots of Christmas carol - BBC.com
+http://www.bbc.co.uk/religion/0/20067732,BBC Religion & Ethics - Building an ethical wind turbine
+http://www.bbc.co.uk/religion/0/20693321,"BBC Religion & Ethics - Pagan beliefs: nature, druids and witches"
+http://www.bbc.co.uk/religion/0/21276786,BBC Religion & Ethics - Perspectives: Is torture ever justified?

@@ -1,0 +1,211 @@
+url,text
+http://www.bbc.co.uk/webwise/0/,BBC WebWise - BBC WebWise
+http://www.bbc.co.uk/webwise/0/22562675,BBC WebWise - What is broadband speed?
+http://www.bbc.co.uk/webwise/0/22717887,BBC WebWise - What is smart TV?
+http://www.bbc.co.uk/webwise/0/25859561,BBC WebWise - Sexting: What parents need to know
+http://www.bbc.co.uk/webwise/0/22562913,BBC WebWise - What is a search engine?
+http://www.bbc.co.uk/webwise/0/25879514,BBC WebWise - Parenting online: Know your child
+http://www.bbc.co.uk/webwise/0/25562719,BBC WebWise - Craven part 5: Mark Henderson's appeal
+http://www.bbc.co.uk/webwise/0/22205391,BBC WebWise - How do I get broadband?
+http://www.bbc.co.uk/webwise/0/26031831,BBC Poll highlights online dangers
+http://www.bbc.co.uk/webwise/0/22728224,BBC WebWise - How to shop safely and securely online
+http://www.bbc.co.uk/webwise/0/22562918,BBC WebWise - How do I get email?
+http://www.bbc.co.uk/webwise/0/25562718,BBC WebWise - Craven part 4: Pushed to the brink
+http://www.bbc.co.uk/webwise/0/21259413,BBC WebWise - Top 10 online safety tips
+http://www.bbc.co.uk/webwise/0/25812110,BBC WebWise - Webcam safety with Jacqueline Jossa
+http://www.bbc.co.uk/webwise/0/22717888,BBC WebWise - What can I safely download?
+http://www.bbc.co.uk/webwise/0/25562715,BBC WebWise - Craven part 1: A tweet too far
+http://www.bbc.co.uk/webwise/0/25917527,"BBC WebWise - Parenting online: controls, locks and chat"
+http://www.bbc.co.uk/webwise/0/22728222,BBC WebWise - Watching online
+http://www.bbc.co.uk/webwise/0/23767790,BBC WebWise - How to secure your broadband wi-fi
+http://www.bbc.co.uk/webwise/0/21259412,BBC WebWise - Parental tools help make the web safer
+http://www.bbc.co.uk/webwise/0/21536149,BBC WebWise - Open letter to my listeners
+http://www.bbc.co.uk/webwise/0/22025935,BBC WebWise - Partner resources
+http://www.bbc.co.uk/webwise/0/22717886,BBC WebWise - About social networks and blogs
+http://www.bbc.co.uk/webwise/0/22718822,BBC WebWise - Social media and libel
+http://www.bbc.co.uk/webwise/0/20211125,BBC WebWise - Body Beautiful season: 'I want to change my body'
+http://www.bbc.co.uk/webwise/0/21428918,BBC WebWise - A 'Dragon' test for online profiles
+http://www.bbc.co.uk/webwise/0/25562717,BBC WebWise - Craven part 3: Social media 101
+http://www.bbc.co.uk/webwise/0/21533557,BBC WebWise - ShareTakeCare: Online privacy and safety
+http://www.bbc.co.uk/webwise/0/22728223,BBC WebWise - Listening online
+http://www.bbc.co.uk/webwise/0/22717881,BBC WebWise - What is internet security?
+http://www.bbc.co.uk/webwise/0/22728226,BBC WebWise - What is connected TV?
+http://www.bbc.co.uk/webwise/0/21293030,"BBC WebWise - They share, but do they take care?"
+http://www.bbc.co.uk/webwise/0/22562353,BBC WebWise - What is a web browser?
+http://www.bbc.co.uk/webwise/0/25562716,BBC WebWise - Craven part 2: An inspector calls
+http://www.bbc.co.uk/webwise/0/22710114,BBC WebWise - What is smart television?
+http://www.bbc.co.uk/webwise/0/22717889,BBC WebWise - What can I safely upload?
+http://www.bbc.co.uk/webwise/0/22710117,BBC WebWise - Social media and libel
+http://www.bbc.co.uk/webwise/0/22760251,BBC WebWise - How to pay for things online
+http://www.bbc.co.uk/webwise/0/22717885,BBC WebWise - How to fill out online forms
+http://www.bbc.co.uk/webwise/0/24955662,BBC WebWise - Protection from online bullying and harassment
+http://www.bbc.co.uk/webwise/0/21298354,BBC WebWise - Louise Minchin's Guide to Online Parental Tools
+http://www.bbc.co.uk/webwise/0/22710112,BBC WebWise - How to fill out online forms
+http://www.bbc.co.uk/webwise/0/22710111,BBC WebWise - What's on GOV.UK?
+http://www.bbc.co.uk/webwise/0/22596191,BBC WebWise - How do I get broadband?
+http://www.bbc.co.uk/webwise/0/22710113,BBC WebWise - About social networking and blogs
+http://www.bbc.co.uk/webwise/0/21428917,BBC WebWise - Mum's test for Nick Grimshaw's tweets
+http://www.bbc.co.uk/webwise/0/22700506,BBC WebWise - What is a browser
+http://www.bbc.co.uk/webwise/0/22710115,BBC WebWise - What can I safely download?
+http://www.bbc.co.uk/webwise/0/22724702,BBC WebWise - What is internet security?
+http://www.bbc.co.uk/webwise/0/21293028,"BBC WebWise - They share, but do they take care?"
+http://www.bbc.co.uk/webwise/0/22638838,BBC WebWise - What is internet security?
+http://www.bbc.co.uk/webwise/0/22710116,BBC WebWise - What can I safely upload?
+http://www.bbc.co.uk/webwise/0/27247899,BBC WebWise - Business apps for blind people
+http://www.bbc.co.uk/webwise/0/27053546,BBC WebWise - Find out where you can get online for free near you
+http://www.bbc.co.uk/webwise/0/27247901,BBC WebWise - How to apply for jobs online
+http://www.bbc.co.uk/webwise/0/27247902,BBC WebWise - Jobseekers: sell your skills online
+http://www.bbc.co.uk/webwise/0/27247368,BBC WebWise - Accessible office: tetraplegia
+http://www.bbc.co.uk/webwise/0/27241058,BBC WebWise - Martha Lane-Fox on Crowdfunding
+http://www.bbc.co.uk/webwise/0/22728225,Parental Controls - BBC
+http://www.bbc.co.uk/webwise/0/20595791,BBC WebWise - Get Connected: Basic online skills
+http://www.bbc.co.uk/webwise/0/22638838,BBC WebWise - What is internet security?
+http://www.bbc.co.uk/webwise/0/22710116,BBC WebWise - What can I safely upload?
+http://www.bbc.co.uk/webwise/0/27247899,BBC WebWise - Business apps for blind people
+http://www.bbc.co.uk/webwise/0/27053546,BBC WebWise - Find out where you can get online for free near you
+http://www.bbc.co.uk/webwise/0/27247901,BBC WebWise - How to apply for jobs online
+http://www.bbc.co.uk/webwise/0/27247902,BBC WebWise - Jobseekers: sell your skills online
+http://www.bbc.co.uk/webwise/0/27247368,BBC WebWise - Accessible office: tetraplegia
+http://www.bbc.co.uk/webwise/0/27241058,BBC WebWise - Martha Lane-Fox on Crowdfunding
+http://www.bbc.co.uk/webwise/0/22728225,Parental Controls - BBC
+http://www.bbc.co.uk/webwise/0/20595791,BBC WebWise - Get Connected: Basic online skills
+http://www.bbc.co.uk/webwise/0/22638838,BBC WebWise - What is internet security?
+http://www.bbc.co.uk/webwise/0/22710116,BBC WebWise - What can I safely upload?
+http://www.bbc.co.uk/webwise/0/27247899,BBC WebWise - Business apps for blind people
+http://www.bbc.co.uk/webwise/0/27053546,BBC WebWise - Find out where you can get online for free near you
+http://www.bbc.co.uk/webwise/0/27247901,BBC WebWise - How to apply for jobs online
+http://www.bbc.co.uk/webwise/0/27247902,BBC WebWise - Jobseekers: sell your skills online
+http://www.bbc.co.uk/webwise/0/27247368,BBC WebWise - Accessible office: tetraplegia
+http://www.bbc.co.uk/webwise/0/27241058,BBC WebWise - Martha Lane-Fox on Crowdfunding
+http://www.bbc.co.uk/webwise/0/22728225,Parental Controls - BBC
+http://www.bbc.co.uk/webwise/0/20595791,BBC WebWise - Get Connected: Basic online skills
+http://www.bbc.co.uk/webwise/0/22638838,BBC WebWise - What is internet security?
+http://www.bbc.co.uk/webwise/0/22710116,BBC WebWise - What can I safely upload?
+http://www.bbc.co.uk/webwise/0/27247899,BBC WebWise - Business apps for blind people
+http://www.bbc.co.uk/webwise/0/27053546,BBC WebWise - Find out where you can get online for free near you
+http://www.bbc.co.uk/webwise/0/27247901,BBC WebWise - How to apply for jobs online
+http://www.bbc.co.uk/webwise/0/27247902,BBC WebWise - Jobseekers: sell your skills online
+http://www.bbc.co.uk/webwise/0/27247368,BBC WebWise - Accessible office: tetraplegia
+http://www.bbc.co.uk/webwise/0/27241058,BBC WebWise - Martha Lane-Fox on Crowdfunding
+http://www.bbc.co.uk/webwise/0/22728225,Parental Controls - BBC
+http://www.bbc.co.uk/webwise/0/20595791,BBC WebWise - Get Connected: Basic online skills
+http://www.bbc.co.uk/webwise/0/22638838,BBC WebWise - What is internet security?
+http://www.bbc.co.uk/webwise/0/22710116,BBC WebWise - What can I safely upload?
+http://www.bbc.co.uk/webwise/0/27247899,BBC WebWise - Business apps for blind people
+http://www.bbc.co.uk/webwise/0/27053546,BBC WebWise - Find out where you can get online for free near you
+http://www.bbc.co.uk/webwise/0/27247901,BBC WebWise - How to apply for jobs online
+http://www.bbc.co.uk/webwise/0/27247902,BBC WebWise - Jobseekers: sell your skills online
+http://www.bbc.co.uk/webwise/0/27247368,BBC WebWise - Accessible office: tetraplegia
+http://www.bbc.co.uk/webwise/0/27241058,BBC WebWise - Martha Lane-Fox on Crowdfunding
+http://www.bbc.co.uk/webwise/0/22728225,Parental Controls - BBC
+http://www.bbc.co.uk/webwise/0/20595791,BBC WebWise - Get Connected: Basic online skills
+http://www.bbc.co.uk/webwise/0/22638838,BBC WebWise - What is internet security?
+http://www.bbc.co.uk/webwise/0/22710116,BBC WebWise - What can I safely upload?
+http://www.bbc.co.uk/webwise/0/27247899,BBC WebWise - Business apps for blind people
+http://www.bbc.co.uk/webwise/0/27053546,BBC WebWise - Find out where you can get online for free near you
+http://www.bbc.co.uk/webwise/0/27247901,BBC WebWise - How to apply for jobs online
+http://www.bbc.co.uk/webwise/0/27247902,BBC WebWise - Jobseekers: sell your skills online
+http://www.bbc.co.uk/webwise/0/27247368,BBC WebWise - Accessible office: tetraplegia
+http://www.bbc.co.uk/webwise/0/27241058,BBC WebWise - Martha Lane-Fox on Crowdfunding
+http://www.bbc.co.uk/webwise/0/22728225,Parental Controls - BBC
+http://www.bbc.co.uk/webwise/0/20595791,BBC WebWise - Get Connected: Basic online skills
+http://www.bbc.co.uk/webwise/0/22638838,BBC WebWise - What is internet security?
+http://www.bbc.co.uk/webwise/0/22710116,BBC WebWise - What can I safely upload?
+http://www.bbc.co.uk/webwise/0/27247899,BBC WebWise - Business apps for blind people
+http://www.bbc.co.uk/webwise/0/27053546,BBC WebWise - Find out where you can get online for free near you
+http://www.bbc.co.uk/webwise/0/27247901,BBC WebWise - How to apply for jobs online
+http://www.bbc.co.uk/webwise/0/27247902,BBC WebWise - Jobseekers: sell your skills online
+http://www.bbc.co.uk/webwise/0/27247368,BBC WebWise - Accessible office: tetraplegia
+http://www.bbc.co.uk/webwise/0/27241058,BBC WebWise - Martha Lane-Fox on Crowdfunding
+http://www.bbc.co.uk/webwise/0/22728225,Parental Controls - BBC
+http://www.bbc.co.uk/webwise/0/20595791,BBC WebWise - Get Connected: Basic online skills
+http://www.bbc.co.uk/webwise/0/22638838,BBC WebWise - What is internet security?
+http://www.bbc.co.uk/webwise/0/22710116,BBC WebWise - What can I safely upload?
+http://www.bbc.co.uk/webwise/0/27247899,BBC WebWise - Business apps for blind people
+http://www.bbc.co.uk/webwise/0/27053546,BBC WebWise - Find out where you can get online for free near you
+http://www.bbc.co.uk/webwise/0/27247901,BBC WebWise - How to apply for jobs online
+http://www.bbc.co.uk/webwise/0/27247902,BBC WebWise - Jobseekers: sell your skills online
+http://www.bbc.co.uk/webwise/0/27247368,BBC WebWise - Accessible office: tetraplegia
+http://www.bbc.co.uk/webwise/0/27241058,BBC WebWise - Martha Lane-Fox on Crowdfunding
+http://www.bbc.co.uk/webwise/0/22728225,Parental Controls - BBC
+http://www.bbc.co.uk/webwise/0/20595791,BBC WebWise - Get Connected: Basic online skills
+http://www.bbc.co.uk/webwise/0/22638838,BBC WebWise - What is internet security?
+http://www.bbc.co.uk/webwise/0/22710116,BBC WebWise - What can I safely upload?
+http://www.bbc.co.uk/webwise/0/27247899,BBC WebWise - Business apps for blind people
+http://www.bbc.co.uk/webwise/0/27053546,BBC WebWise - Find out where you can get online for free near you
+http://www.bbc.co.uk/webwise/0/27247901,BBC WebWise - How to apply for jobs online
+http://www.bbc.co.uk/webwise/0/27247902,BBC WebWise - Jobseekers: sell your skills online
+http://www.bbc.co.uk/webwise/0/27247368,BBC WebWise - Accessible office: tetraplegia
+http://www.bbc.co.uk/webwise/0/27241058,BBC WebWise - Martha Lane-Fox on Crowdfunding
+http://www.bbc.co.uk/webwise/0/22728225,Parental Controls - BBC
+http://www.bbc.co.uk/webwise/0/20595791,BBC WebWise - Get Connected: Basic online skills
+http://www.bbc.co.uk/webwise/0/22638838,BBC WebWise - What is internet security?
+http://www.bbc.co.uk/webwise/0/22710116,BBC WebWise - What can I safely upload?
+http://www.bbc.co.uk/webwise/0/27247899,BBC WebWise - Business apps for blind people
+http://www.bbc.co.uk/webwise/0/27053546,BBC WebWise - Find out where you can get online for free near you
+http://www.bbc.co.uk/webwise/0/27247901,BBC WebWise - How to apply for jobs online
+http://www.bbc.co.uk/webwise/0/27247902,BBC WebWise - Jobseekers: sell your skills online
+http://www.bbc.co.uk/webwise/0/27247368,BBC WebWise - Accessible office: tetraplegia
+http://www.bbc.co.uk/webwise/0/27241058,BBC WebWise - Martha Lane-Fox on Crowdfunding
+http://www.bbc.co.uk/webwise/0/22728225,Parental Controls - BBC
+http://www.bbc.co.uk/webwise/0/20595791,BBC WebWise - Get Connected: Basic online skills
+http://www.bbc.co.uk/webwise/0/22638838,BBC WebWise - What is internet security?
+http://www.bbc.co.uk/webwise/0/22710116,BBC WebWise - What can I safely upload?
+http://www.bbc.co.uk/webwise/0/27247899,BBC WebWise - Business apps for blind people
+http://www.bbc.co.uk/webwise/0/27053546,BBC WebWise - Find out where you can get online for free near you
+http://www.bbc.co.uk/webwise/0/27247901,BBC WebWise - How to apply for jobs online
+http://www.bbc.co.uk/webwise/0/27247902,BBC WebWise - Jobseekers: sell your skills online
+http://www.bbc.co.uk/webwise/0/27247368,BBC WebWise - Accessible office: tetraplegia
+http://www.bbc.co.uk/webwise/0/27241058,BBC WebWise - Martha Lane-Fox on Crowdfunding
+http://www.bbc.co.uk/webwise/0/22728225,Parental Controls - BBC
+http://www.bbc.co.uk/webwise/0/20595791,BBC WebWise - Get Connected: Basic online skills
+http://www.bbc.co.uk/webwise/0/22638838,BBC WebWise - What is internet security?
+http://www.bbc.co.uk/webwise/0/22710116,BBC WebWise - What can I safely upload?
+http://www.bbc.co.uk/webwise/0/27247899,BBC WebWise - Business apps for blind people
+http://www.bbc.co.uk/webwise/0/27053546,BBC WebWise - Find out where you can get online for free near you
+http://www.bbc.co.uk/webwise/0/27247901,BBC WebWise - How to apply for jobs online
+http://www.bbc.co.uk/webwise/0/27247902,BBC WebWise - Jobseekers: sell your skills online
+http://www.bbc.co.uk/webwise/0/27247368,BBC WebWise - Accessible office: tetraplegia
+http://www.bbc.co.uk/webwise/0/27241058,BBC WebWise - Martha Lane-Fox on Crowdfunding
+http://www.bbc.co.uk/webwise/0/22728225,Parental Controls - BBC
+http://www.bbc.co.uk/webwise/0/20595791,BBC WebWise - Get Connected: Basic online skills
+http://www.bbc.co.uk/webwise/0/22638838,BBC WebWise - What is internet security?
+http://www.bbc.co.uk/webwise/0/22710116,BBC WebWise - What can I safely upload?
+http://www.bbc.co.uk/webwise/0/27247899,BBC WebWise - Business apps for blind people
+http://www.bbc.co.uk/webwise/0/27053546,BBC WebWise - Find out where you can get online for free near you
+http://www.bbc.co.uk/webwise/0/27247901,BBC WebWise - How to apply for jobs online
+http://www.bbc.co.uk/webwise/0/27247902,BBC WebWise - Jobseekers: sell your skills online
+http://www.bbc.co.uk/webwise/0/27247368,BBC WebWise - Accessible office: tetraplegia
+http://www.bbc.co.uk/webwise/0/27241058,BBC WebWise - Martha Lane-Fox on Crowdfunding
+http://www.bbc.co.uk/webwise/0/22728225,Parental Controls - BBC
+http://www.bbc.co.uk/webwise/0/20595791,BBC WebWise - Get Connected: Basic online skills
+http://www.bbc.co.uk/webwise/0/22638838,BBC WebWise - What is internet security?
+http://www.bbc.co.uk/webwise/0/22710116,BBC WebWise - What can I safely upload?
+http://www.bbc.co.uk/webwise/0/27247899,BBC WebWise - Business apps for blind people
+http://www.bbc.co.uk/webwise/0/27053546,BBC WebWise - Find out where you can get online for free near you
+http://www.bbc.co.uk/webwise/0/27247901,BBC WebWise - How to apply for jobs online
+http://www.bbc.co.uk/webwise/0/27247902,BBC WebWise - Jobseekers: sell your skills online
+http://www.bbc.co.uk/webwise/0/27247368,BBC WebWise - Accessible office: tetraplegia
+http://www.bbc.co.uk/webwise/0/27241058,BBC WebWise - Martha Lane-Fox on Crowdfunding
+http://www.bbc.co.uk/webwise/0/22728225,Parental Controls - BBC
+http://www.bbc.co.uk/webwise/0/20595791,BBC WebWise - Get Connected: Basic online skills
+http://www.bbc.co.uk/webwise/0/22638838,BBC WebWise - What is internet security?
+http://www.bbc.co.uk/webwise/0/22710116,BBC WebWise - What can I safely upload?
+http://www.bbc.co.uk/webwise/0/27247899,BBC WebWise - Business apps for blind people
+http://www.bbc.co.uk/webwise/0/27053546,BBC WebWise - Find out where you can get online for free near you
+http://www.bbc.co.uk/webwise/0/27247901,BBC WebWise - How to apply for jobs online
+http://www.bbc.co.uk/webwise/0/27247902,BBC WebWise - Jobseekers: sell your skills online
+http://www.bbc.co.uk/webwise/0/27247368,BBC WebWise - Accessible office: tetraplegia
+http://www.bbc.co.uk/webwise/0/27241058,BBC WebWise - Martha Lane-Fox on Crowdfunding
+http://www.bbc.co.uk/webwise/0/22728225,Parental Controls - BBC
+http://www.bbc.co.uk/webwise/0/20595791,BBC WebWise - Get Connected: Basic online skills
+http://www.bbc.co.uk/webwise/0/22638838,BBC WebWise - What is internet security?
+http://www.bbc.co.uk/webwise/0/22710116,BBC WebWise - What can I safely upload?
+http://www.bbc.co.uk/webwise/0/27247899,BBC WebWise - Business apps for blind people
+http://www.bbc.co.uk/webwise/0/27053546,BBC WebWise - Find out where you can get online for free near you
+http://www.bbc.co.uk/webwise/0/27247901,BBC WebWise - How to apply for jobs online
+http://www.bbc.co.uk/webwise/0/27247902,BBC WebWise - Jobseekers: sell your skills online
+http://www.bbc.co.uk/webwise/0/27247368,BBC WebWise - Accessible office: tetraplegia
+http://www.bbc.co.uk/webwise/0/27241058,BBC WebWise - Martha Lane-Fox on Crowdfunding
+http://www.bbc.co.uk/webwise/0/22728225,Parental Controls - BBC
+http://www.bbc.co.uk/webwise/0/20595791,BBC WebWise - Get Connected: Basic online skills

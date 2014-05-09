@@ -1,0 +1,145 @@
+url,text
+http://www.bbc.co.uk/arts/0/26788164,BBC Arts & Culture - Brits Who Built the Modern World: Highlights ...
+http://www.bbc.co.uk/arts/0/22861534,BBC Arts & Culture - The Royal Academy and the Hangmen
+http://www.bbc.co.uk/arts/0/25019348,BBC Arts & Culture - Why do comedians love the celebrity roast?
+http://www.bbc.co.uk/arts/0/22442676,BBC Arts & Culture - The Smiths: Not Like Any Other Love
+http://www.bbc.co.uk/arts/0/24748894,Who was to blame for Dylan's death? - BBC
+http://www.bbc.co.uk/arts/0/26453306,BBC Arts & Culture - Frank Quitely: Comic book artist at work
+http://www.bbc.co.uk/arts/0/26776597,Renaissance Britain's hidden portraits of desire - BBC
+http://www.bbc.co.uk/arts/0/25951754,BBC Arts & Culture - Amateur artists call: terms & conditions
+http://www.bbc.co.uk/arts/0/22021776,BBC Arts & Culture - Interview: Andrew Graham-Dixon
+http://www.bbc.co.uk/arts/0/26947669,From fine art to fingernails: GI 2014 - BBC.com
+http://www.bbc.co.uk/arts/0/21870873,BBC Arts & Culture - Alan Bennett on Class
+http://www.bbc.co.uk/arts/0/22042788,New Generation Thinkers: Professor Martin Goodman - BBC
+http://www.bbc.co.uk/arts/0/23631844,What makes a modern medical artist? - BBC
+http://www.bbc.co.uk/arts/0/24164508,Northern Soul: Wigan Casino at 40 - BBC
+http://www.bbc.co.uk/arts/0/21871824,BBC Arts & Culture - Alan Bennett on mortality
+http://www.bbc.co.uk/arts/0/23843532,The artist possessed by a witch - BBC
+http://www.bbc.co.uk/arts/0/22042157,BBC Arts & Culture - New Generation Thinkers: Charlotte Blease
+http://www.bbc.co.uk/arts/0/24083243,How film music manipulates emotions - BBC
+http://www.bbc.co.uk/arts/0/21701802,BBC Arts & Culture - Goldie's graffiti - the early years
+http://www.bbc.co.uk/arts/0/21927720,BBC Arts & Culture - Good Vibrations: How does a low budget movie ...
+http://www.bbc.co.uk/arts/0/24986990,Perceptions of the Turner Prize - BBC
+http://www.bbc.co.uk/arts/0/25137310,Mary Poppins author's makeover - BBC
+http://www.bbc.co.uk/arts/0/23976745,BBC Arts & Culture - Rise of the super library: From Birmingham to ...
+http://www.bbc.co.uk/arts/0/20774328,BBC Arts & Culture - Alan Yentob reflects on imagine...
+http://www.bbc.co.uk/arts/0/24397825,Mark Lawson on celebrity interviews - BBC
+http://www.bbc.co.uk/arts/0/23605431,The art of being a Scots queen - BBC
+http://www.bbc.co.uk/arts/0/26776599,Photographer Albert Watson captured at work - BBC
+http://www.bbc.co.uk/arts/0/23503040,McCartney's forgotten protest song - BBC
+http://www.bbc.co.uk/arts/0/22043129,BBC Arts & Culture - New Generation Thinkers: Sue-Ann Harding
+http://www.bbc.co.uk/arts/0/22043134,BBC Arts & Culture - New Generation Thinkers: Timothy Secret
+http://www.bbc.co.uk/arts/0/21300574,BBC Arts & Culture - Fritz Lang & Jeff Mills: Back to the Future
+http://www.bbc.co.uk/arts/0/24492230,Joseph Lycett: From money forger to Australian artist - BBC.com
+http://www.bbc.co.uk/arts/0/21871344,BBC Arts & Culture - Alan Bennett on his feelings for his parents
+http://www.bbc.co.uk/arts/0/26275552,BBC Arts & Culture - Opera at the movies: a new immersive art form?
+http://www.bbc.co.uk/arts/0/24624407,The Secret Art of the Silk Road - BBC
+http://www.bbc.co.uk/arts/0/22042796,BBC Arts & Culture - New Generation Thinkers: Jonathan Healey
+http://www.bbc.co.uk/arts/0/23070523,Why do we love the drama of Man versus Machine? - BBC
+http://www.bbc.co.uk/arts/0/21835964,BBC Arts & Culture - Alan Bennett: the full Mark Lawson interview
+http://www.bbc.co.uk/arts/0/21806895,BBC Arts & Culture - Norman Ackroyd: Artist At Work
+http://www.bbc.co.uk/arts/0/23350996,BBC Arts & Culture - Richard Rogers: turning architecture inside out
+http://www.bbc.co.uk/arts/0/26795200,BBC Arts & Culture - New Generation Thinkers: Gregory Tate
+http://www.bbc.co.uk/arts/0/21871338,BBC Arts & Culture - Alan Bennett on the British honours system
+http://www.bbc.co.uk/arts/0/21183819,BBC Arts & Culture - Danny Baker's Great Album Showdown
+http://www.bbc.co.uk/arts/0/21452205,BBC Arts & Culture - Orwell and the Internet: @gorwell101
+http://www.bbc.co.uk/arts/0/22040381,BBC Arts & Culture - New Generation Thinkers: Emma Griffin
+http://www.bbc.co.uk/arts/0/22007159,BBC Arts & Culture - Cracked Actor: David Bowie in 1974
+http://www.bbc.co.uk/arts/0/21122727,Jane Austen's reading list - BBC
+http://www.bbc.co.uk/arts/0/22095351,BBC Arts & Culture - New Generation Thinkers
+http://www.bbc.co.uk/arts/0/21672648,BBC Arts & Culture - Philip Pullman: How Wales inspired his life and ...
+http://www.bbc.co.uk/arts/0/26776600,BBC Arts & Culture - New Generation Thinkers
+http://www.bbc.co.uk/arts/0/25951753,BBC Arts & Culture - BBC One series: calling all amateur artists
+http://www.bbc.co.uk/arts/0/23007897,BBC Arts & Culture - Vivian Maier: lost art of an urban photographer
+http://www.bbc.co.uk/arts/0/24536773,Donna Tartt reads from The Goldfinch - BBC
+http://www.bbc.co.uk/arts/0/24069424,BBC Arts & Culture - In Pictures: A portrait of Jonathan Yeo
+http://www.bbc.co.uk/arts/0/22642689,BBC Arts & Culture - Highlights from Glasgow's Burrell Collection
+http://www.bbc.co.uk/arts/0/24810371,BBC Arts & Culture - Danny Boy at 100: The classic song 'written by ...
+http://www.bbc.co.uk/arts/0/22042792,BBC Arts & Culture - New Generation Thinkers: Joshua Nall
+http://www.bbc.co.uk/arts/0/22040385,BBC Arts & Culture - New Generation Thinkers: Adriana Sinclair
+http://www.bbc.co.uk/arts/0/26226409,BBC Arts & Culture - Art Screen: celebrating arts documentaries
+http://www.bbc.co.uk/arts/0/26226409,BBC Arts & Culture - Art Screen: celebrating arts documentaries
+http://www.bbc.co.uk/arts/0/25417419,Primal Scream: Rock music is 'dead' - BBC
+http://www.bbc.co.uk/arts/0/24779693,BBC Arts & Culture - Building utopia: unlocking the secrets of ...
+http://www.bbc.co.uk/arts/0/22389432,BBC Arts & Culture - Did Franco rob Derry of Eurovision glory?
+http://www.bbc.co.uk/arts/0/22031556,BBC Arts & Culture - New Generation Thinkers: Professor Nandini Das
+http://www.bbc.co.uk/arts/0/25496655,Why do we love a festive ghost tale? - BBC
+http://www.bbc.co.uk/arts/0/21871003,BBC Arts & Culture - Alan Bennett on writing for television and radio
+http://www.bbc.co.uk/arts/0/22442670,Hugh Laurie's blues - BBC
+http://www.bbc.co.uk/arts/0/26048898,Danny Baker's music memorabilia - BBC
+http://www.bbc.co.uk/arts/0/27029368,BBC Arts & Culture - Sue Tompkins Live: Glasgow International 2014
+http://www.bbc.co.uk/arts/0/26774281,Brits Who Built the Modern World 5 - BBC
+http://www.bbc.co.uk/arts/0/23956266,BBC Arts & Culture - Christie's Poirot returns
+http://www.bbc.co.uk/arts/0/22704939,Cecil Beaton's Coronation Day photograph recreated - BBC
+http://www.bbc.co.uk/arts/0/21870866,BBC Arts & Culture - Alan Bennett on writing Smut
+http://www.bbc.co.uk/arts/0/23243705,BBC Arts & Culture - The xx at Manchester International Festival
+http://www.bbc.co.uk/arts/0/23337281,BBC Arts & Culture - Rankin: Alive in the face of death
+http://www.bbc.co.uk/arts/0/22042161,BBC Arts & Culture - New Generation Thinkers: Matthew Smith
+http://www.bbc.co.uk/arts/0/22915775,The inside story of Londonderry's love affair with music - BBC.com
+http://www.bbc.co.uk/arts/0/27029362,BBC Arts & Culture - Sue Tompkins Live: Glasgow International 2014
+http://www.bbc.co.uk/arts/0/26672905,BBC Arts & Culture - RIBA: The Brits Who Built the Modern World
+http://www.bbc.co.uk/arts/0/25024591,"BBC Arts & Culture - Primal Scream: It's Alright, It's OK on The ..."
+http://www.bbc.co.uk/arts/0/24848086,BBC Arts & Culture - Norman Mailer 'great writer at times'
+http://www.bbc.co.uk/arts/0/21385687,BBC Arts & Culture - Stonehenge: artwork
+http://www.bbc.co.uk/arts/0/26825824,BBC Arts & Culture - New Generation Thinkers: Alice Hall
+http://www.bbc.co.uk/arts/0/21387738,BBC Arts & Culture - The Prehistoric Cave Art of Altamira
+http://www.bbc.co.uk/arts/0/24672968,Hendrix unseen - BBC.com
+http://www.bbc.co.uk/arts/0/26819761,BBC Arts & Culture - New Generation Thinkers: Sarah Dillon
+http://www.bbc.co.uk/arts/0/26774284,Brits Who Built the Modern World 4 - BBC
+http://www.bbc.co.uk/arts/0/21569899,BBC Arts & Culture - Oscars 2013: In pictures
+http://www.bbc.co.uk/arts/0/26795155,BBC Arts & Culture - New Generation Thinkers: Fern Riddell
+http://www.bbc.co.uk/arts/0/23419798,Robert Weide on making Woody Allen: A Documentary - BBC
+http://www.bbc.co.uk/arts/0/26795237,BBC Arts & Culture - New Generation Thinkers: Sarah Peverley
+http://www.bbc.co.uk/arts/0/22547949,Andy Warhol goes east - and other arts stories - BBC
+http://www.bbc.co.uk/arts/0/24465711,A canvas on every corner - Northern Ireland's murals - BBC
+http://www.bbc.co.uk/arts/0/26795162,BBC Arts & Culture - New Generation Thinkers: John Gallagher
+http://www.bbc.co.uk/arts/0/26947667,BBC Arts & Culture - Glasgow International 2014: Preview
+http://www.bbc.co.uk/arts/0/25324493,BBC Arts & Culture - Sci-fi author Brian Aldiss on Doris Lessing
+http://www.bbc.co.uk/arts/0/25024590,Machiavelli and Game of Thrones - BBC
+http://www.bbc.co.uk/arts/0/24820851,Steve Coogan's Spitting Image voices - BBC
+http://www.bbc.co.uk/arts/0/26859696,Ben Watt and Bernard Butler perform on The Review Show - BBC.com
+http://www.bbc.co.uk/arts/0/26275554,BBC Arts & Culture - Chvrches up close
+http://www.bbc.co.uk/arts/0/26275553,BBC Arts & Culture - Chvrches perform on The Review Show
+http://www.bbc.co.uk/arts/0/24231692,BBC Arts & Culture - Zaha Hadid's Serpentine Sackler Gallery
+http://www.bbc.co.uk/arts/0/26947673,BBC Arts & Culture - Glasgow International 2014: Alistair Frost
+http://www.bbc.co.uk/arts/0/24164513,Soul collector: Paul Mason meets DJ Richard Searling - BBC
+http://www.bbc.co.uk/arts/0/26822547,BBC Arts & Culture - New Generation Thinkers: Christopher Harding
+http://www.bbc.co.uk/arts/0/26820081,BBC Arts & Culture - New Generation Thinkers: Jules Evans
+http://www.bbc.co.uk/arts/0/23734187,On stage with the ghost of Richard Burton's Hamlet - BBC.com
+http://www.bbc.co.uk/arts/0/26795218,New Generation Thinkers: Eleanor Rosamund Barraclough - BBC.com
+http://www.bbc.co.uk/arts/0/25137316,BBC Arts & Culture - Victoria Coren listens to the 'Poppins Tapes'
+http://www.bbc.co.uk/arts/0/26716161,BBC Arts & Culture - Arts Live Test
+http://www.bbc.co.uk/arts/0/,Arts & Culture - BBC
+http://www.bbc.co.uk/arts/0/26716162,BBC Arts & Culture - LIVE: Sue Tompkins Live Performance
+http://www.bbc.co.uk/arts/0/26822547,BBC Arts & Culture - New Generation Thinkers: Christopher Harding
+http://www.bbc.co.uk/arts/0/26820081,BBC Arts & Culture - New Generation Thinkers: Jules Evans
+http://www.bbc.co.uk/arts/0/23734187,On stage with the ghost of Richard Burton's Hamlet - BBC.com
+http://www.bbc.co.uk/arts/0/26795218,New Generation Thinkers: Eleanor Rosamund Barraclough - BBC.com
+http://www.bbc.co.uk/arts/0/25137316,BBC Arts & Culture - Victoria Coren listens to the 'Poppins Tapes'
+http://www.bbc.co.uk/arts/0/26716161,BBC Arts & Culture - Arts Live Test
+http://www.bbc.co.uk/arts/0/,Arts & Culture - BBC
+http://www.bbc.co.uk/arts/0/26716162,BBC Arts & Culture - LIVE: Sue Tompkins Live Performance
+http://www.bbc.co.uk/arts/0/26716161,BBC Arts & Culture - Arts Live Test
+http://www.bbc.co.uk/arts/0/,Arts & Culture - BBC
+http://www.bbc.co.uk/arts/0/26716162,BBC Arts & Culture - LIVE: Sue Tompkins Live Performance
+http://www.bbc.co.uk/arts/0/26716161,BBC Arts & Culture - Arts Live Test
+http://www.bbc.co.uk/arts/0/,Arts & Culture - BBC
+http://www.bbc.co.uk/arts/0/26716162,BBC Arts & Culture - LIVE: Sue Tompkins Live Performance
+http://www.bbc.co.uk/arts/0/26716161,BBC Arts & Culture - Arts Live Test
+http://www.bbc.co.uk/arts/0/,Arts & Culture - BBC
+http://www.bbc.co.uk/arts/0/26716162,BBC Arts & Culture - LIVE: Sue Tompkins Live Performance
+http://www.bbc.co.uk/arts/0/26716161,BBC Arts & Culture - Arts Live Test
+http://www.bbc.co.uk/arts/0/,Arts & Culture - BBC
+http://www.bbc.co.uk/arts/0/26716162,BBC Arts & Culture - LIVE: Sue Tompkins Live Performance
+http://www.bbc.co.uk/arts/0/26716161,BBC Arts & Culture - Arts Live Test
+http://www.bbc.co.uk/arts/0/,Arts & Culture - BBC
+http://www.bbc.co.uk/arts/0/26716162,BBC Arts & Culture - LIVE: Sue Tompkins Live Performance
+http://www.bbc.co.uk/arts/0/26716161,BBC Arts & Culture - Arts Live Test
+http://www.bbc.co.uk/arts/0/,Arts & Culture - BBC
+http://www.bbc.co.uk/arts/0/26716162,BBC Arts & Culture - LIVE: Sue Tompkins Live Performance
+http://www.bbc.co.uk/arts/0/26716161,BBC Arts & Culture - Arts Live Test
+http://www.bbc.co.uk/arts/0/,Arts & Culture - BBC
+http://www.bbc.co.uk/arts/0/26716162,BBC Arts & Culture - LIVE: Sue Tompkins Live Performance
+http://www.bbc.co.uk/arts/0/26716161,BBC Arts & Culture - Arts Live Test
+http://www.bbc.co.uk/arts/0/,Arts & Culture - BBC
+http://www.bbc.co.uk/arts/0/26716162,BBC Arts & Culture - LIVE: Sue Tompkins Live Performance

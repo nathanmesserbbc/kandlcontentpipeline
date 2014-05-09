@@ -1,0 +1,201 @@
+url,text
+http://www.bbc.co.uk/schools/0/25235363,BBC Schools - Zeppelins
+http://www.bbc.co.uk/schools/0/25235364,BBC Schools - Gothas and Giants
+http://www.bbc.co.uk/schools/0/25235362,BBC Schools - Air raids
+http://www.bbc.co.uk/schools/0/ww1/25580838,BBC Schools - Teachers' notes: Causes of war and the war years
+http://www.bbc.co.uk/schools/0/ww1/25365445,BBC Schools - The Royal Family
+http://www.bbc.co.uk/schools/0/ww1/25307615,BBC Schools - Girls' work
+http://www.bbc.co.uk/schools/0/ww1/26562482,BBC Schools - Industry: Ship building
+http://www.bbc.co.uk/schools/0/ww1/25224336,BBC Schools - Different kinds of school - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25407954,BBC Schools - War and that poster
+http://www.bbc.co.uk/schools/0/ww1/25307609,BBC Schools - A typical day - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/26280180,Men's roles on the home front - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25453372,BBC Schools - Introduction
+http://www.bbc.co.uk/schools/0/ww1/26293980,BBC Schools - Country
+http://www.bbc.co.uk/schools/0/ww1/25403860,BBC Schools - Workers
+http://www.bbc.co.uk/schools/0/ww1/25405395,BBC Schools - After the war - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25651655,BBC Schools - Teachers' notes: Women's roles on the home front
+http://www.bbc.co.uk/schools/0/ww1/26189775,BBC Schools - New challenges
+http://www.bbc.co.uk/schools/0/ww1/26374721,BBC Schools - Ambulance drivers - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/26232919,BBC Schools - Remembering Haig - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25403864,BBC Schools - Illness and injury
+http://www.bbc.co.uk/schools/0/ww1/25307607,BBC Schools - War clothes
+http://www.bbc.co.uk/schools/0/ww1/25213481,BBC Schools - Reading
+http://www.bbc.co.uk/schools/0/ww1/25438782,BBC Schools - Military equipment
+http://www.bbc.co.uk/schools/0/ww1/26280178,BBC Schools - The Air Force
+http://www.bbc.co.uk/schools/0/ww1/25213482,BBC Schools - Teachers' notes: What did children do for fun?
+http://www.bbc.co.uk/schools/0/ww1/25347795,BBC Schools - Kitchen - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25365443,BBC Schools - 1914-1918
+http://www.bbc.co.uk/schools/0/ww1/25415718,BBC Schools - Families - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25407948,BBC Schools - Who was Wilfred Owen? - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25733530,BBC Schools - Teachers' notes: Jack Cornwell
+http://www.bbc.co.uk/schools/0/ww1/25434653,BBC Schools - Teachers' notes: Town and country
+http://www.bbc.co.uk/schools/0/ww1/25347798,BBC Schools - Child's bedroom
+http://www.bbc.co.uk/schools/0/ww1/26174812,BBC Schools - Who was Caroline?
+http://www.bbc.co.uk/schools/0/ww1/25449509,BBC Schools - Teachers' Notes
+http://www.bbc.co.uk/schools/0/ww1/25237883,BBC Schools - The Underground and Subway
+http://www.bbc.co.uk/schools/0/ww1/26374717,BBC Schools - War doctors
+http://www.bbc.co.uk/schools/0/ww1/25449508,BBC Schools - Assembly
+http://www.bbc.co.uk/schools/0/ww1/25401271,BBC Schools - Communications
+http://www.bbc.co.uk/schools/0/ww1/25232797,BBC Schools - Telephones
+http://www.bbc.co.uk/schools/0/ww1/25347797,BBC Schools - Bathroom
+http://www.bbc.co.uk/schools/0/ww1/25582804,BBC Schools - Teachers' notes: Medicine
+http://www.bbc.co.uk/schools/0/ww1/26232917,BBC Schools - Start of war - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25405400,BBC Schools - Hero or criminal? - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/26345063,BBC Schools - Medical roles
+http://www.bbc.co.uk/schools/0/ww1/25371688,BBC Schools - Joining the Navy - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25245899,BBC Schools - Home front food
+http://www.bbc.co.uk/schools/0/ww1/25403862,BBC Schools - Helpers and mascots
+http://www.bbc.co.uk/schools/0/ww1/25224332,BBC Schools - Classroom
+http://www.bbc.co.uk/schools/0/ww1/25819021,BBC Schools - Bitesize
+http://www.bbc.co.uk/schools/0/ww1/25582807,BBC Schools - Teachers' notes: Edith Cavell - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25403978,BBC Schools - Walter's childhood
+http://www.bbc.co.uk/schools/0/ww1/25451197,BBC Schools - Assembly
+http://www.bbc.co.uk/schools/0/ww1/25434652,BBC Schools - Teachers' notes: The high street
+http://www.bbc.co.uk/schools/0/ww1/25581770,"BBC Schools - Teachers' notes: Technology, communications and ..."
+http://www.bbc.co.uk/schools/0/ww1/25464256,BBC Schools - This page is no longer available - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25318729,BBC Schools - Conkers - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25307614,BBC Schools - Boys' work
+http://www.bbc.co.uk/schools/0/ww1/25453365,BBC Schools - Introduction - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25307610,"BBC Schools - Sights, sounds and smells - BBC.com"
+http://www.bbc.co.uk/schools/0/ww1/25638399,BBC Schools - Teachers' notes: What were family homes like?
+http://www.bbc.co.uk/schools/0/ww1/25432118,BBC Schools - This page is no longer available
+http://www.bbc.co.uk/schools/0/ww1/25439161,BBC Schools - Teachers' notes: Children and the war effort
+http://www.bbc.co.uk/schools/0/ww1/25403869,BBC Schools - How did war end?
+http://www.bbc.co.uk/schools/0/ww1/25268183,BBC Schools - Women's clothes
+http://www.bbc.co.uk/schools/0/ww1/25403865,BBC Schools - Spanish flu
+http://www.bbc.co.uk/schools/0/ww1/25268182,BBC Schools - Boys' clothes
+http://www.bbc.co.uk/schools/0/ww1/25401264,"BBC Schools - Land, sea and air"
+http://www.bbc.co.uk/schools/0/ww1/25401272,BBC Schools - Technology
+http://www.bbc.co.uk/schools/0/ww1/25422905,BBC Schools - The Western Front
+http://www.bbc.co.uk/schools/0/ww1/25235366,BBC Schools - Who was affected?
+http://www.bbc.co.uk/schools/0/ww1/25326089,BBC Schools - Teachers' notes: What was school like?
+http://www.bbc.co.uk/schools/0/ww1/25237885,BBC Schools - Buses and trolleybuses
+http://www.bbc.co.uk/schools/0/ww1/26247563,BBC Schools - Trench food
+http://www.bbc.co.uk/schools/0/ww1/25581110,BBC Schools - Teachers' notes: Life on the front line - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25403867,BBC Schools - Medical advances
+http://www.bbc.co.uk/schools/0/ww1/25401267,BBC Schools - Communicating with home
+http://www.bbc.co.uk/schools/0/ww1/25237886,BBC Schools - Cars
+http://www.bbc.co.uk/schools/0/ww1/25449510,BBC Schools - Introduction
+http://www.bbc.co.uk/schools/0/ww1/25371689,BBC Schools - Battle of Jutland - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25237880,BBC Schools - Farming
+http://www.bbc.co.uk/schools/0/ww1/25451196,BBC Schools - Introduction
+http://www.bbc.co.uk/schools/0/ww1/25235371,BBC Schools - Rationing
+http://www.bbc.co.uk/schools/0/ww1/25401273,BBC Schools - Transporters
+http://www.bbc.co.uk/schools/0/ww1/26562483,BBC Schools - Industry: Factories
+http://www.bbc.co.uk/schools/0/ww1/25332968,BBC Schools - Posters
+http://www.bbc.co.uk/schools/0/ww1/25232796,BBC Schools - Post
+http://www.bbc.co.uk/schools/0/ww1/25356043,BBC Schools - Jack's childhood
+http://www.bbc.co.uk/schools/0/ww1/26189776,BBC Schools - Remembering Caroline - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25415721,BBC Schools - Entertainment
+http://www.bbc.co.uk/schools/0/ww1/25626530,BBC Schools - Life in the trenches
+http://www.bbc.co.uk/schools/0/ww1/25243103,BBC Schools - Before the war
+http://www.bbc.co.uk/schools/0/ww1/26294863,BBC Schools - Changing times
+http://www.bbc.co.uk/schools/0/ww1/25183931,BBC Schools - Toys and games
+http://www.bbc.co.uk/schools/0/ww1/26280177,BBC Schools - The Navy
+http://www.bbc.co.uk/schools/0/ww1/25401266,BBC Schools - The soldiers
+http://www.bbc.co.uk/schools/0/ww1/26370568,BBC Schools - Teachers' notes: Sir Douglas Haig - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25434654,BBC Schools - Teachers' notes: Air raids
+http://www.bbc.co.uk/schools/0/ww1/25401265,BBC Schools - A typical trench
+http://www.bbc.co.uk/schools/0/ww1/26434511,BBC Schools - Coast - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25245898,BBC Schools - School dinners
+http://www.bbc.co.uk/schools/0/ww1/25593763,BBC Schools - The Women's Land Army
+http://www.bbc.co.uk/schools/0/ww1/25365444,BBC Schools - Britain during war
+http://www.bbc.co.uk/schools/0/ww1/25307608,BBC Schools - Same but different
+http://www.bbc.co.uk/schools/0/ww1/25407953,BBC Schools - Before the war - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25322712,BBC Schools - Women on the home front
+http://www.bbc.co.uk/schools/0/ww1/25652727,BBC Schools - Teachers' notes: Men's roles on the home front
+http://www.bbc.co.uk/schools/0/ww1/25454560,BBC Schools - War cemeteries and memorials
+http://www.bbc.co.uk/schools/0/ww1/25232794,BBC Schools - Communication
+http://www.bbc.co.uk/schools/0/ww1/25365441,BBC Schools - Introductions
+http://www.bbc.co.uk/schools/0/ww1/26386415,BBC Schools - Teachers' notes: Women's roles on the home front
+http://www.bbc.co.uk/schools/0/ww1/25642933,BBC Schools - Audio clips
+http://www.bbc.co.uk/schools/0/ww1/25432063,BBC Schools - Teachers' notes: What clothes did people wear?
+http://www.bbc.co.uk/schools/0/ww1/25401269,BBC Schools - Weapons
+http://www.bbc.co.uk/schools/0/ww1/25453996,BBC Schools - Teachers' Notes
+http://www.bbc.co.uk/schools/0/ww1/25356306,BBC Schools - Propaganda
+http://www.bbc.co.uk/schools/0/ww1/25403975,BBC Schools - Who was Walter?
+http://www.bbc.co.uk/schools/0/ww1/25589488,BBC Schools - Teachers' notes: Sergeant Stubby
+http://www.bbc.co.uk/schools/0/ww1/25224334,BBC Schools - Lessons
+http://www.bbc.co.uk/schools/0/ww1/25224333,BBC Schools - Equipment - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25464257,BBC Schools - This page is no longer available
+http://www.bbc.co.uk/schools/0/ww1/25464257,BBC Schools - This page is no longer available
+http://www.bbc.co.uk/schools/0/ww1/25415720,BBC Schools - Food
+http://www.bbc.co.uk/schools/0/ww1/25237884,BBC Schools - Trams and trains
+http://www.bbc.co.uk/schools/0/ww1/25405401,BBC Schools - Who was Stubby?
+http://www.bbc.co.uk/schools/0/ww1/25405398,BBC Schools - Nursing and the war - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25307613,BBC Schools - Doing your bit
+http://www.bbc.co.uk/schools/0/ww1/25432117,BBC Schools - This page is no longer available
+http://www.bbc.co.uk/schools/0/ww1/25403979,BBC Schools - Walter the footballer - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25407952,BBC Schools - Who was Kitchener?
+http://www.bbc.co.uk/schools/0/ww1/25307611,BBC Schools - Weekends and holidays
+http://www.bbc.co.uk/schools/0/ww1/25415719,BBC Schools - Rich and poor
+http://www.bbc.co.uk/schools/0/ww1/25224335,BBC Schools - Teachers and children
+http://www.bbc.co.uk/schools/0/ww1/26345062,BBC Schools - War zones - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25232795,BBC Schools - Newspapers - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/26189774,BBC Schools - Work and the war
+http://www.bbc.co.uk/schools/0/ww1/25403863,BBC Schools - Pests
+http://www.bbc.co.uk/schools/0/ww1/25407955,BBC Schools - His death
+http://www.bbc.co.uk/schools/0/ww1/25405394,BBC Schools - Remembrance and poppies
+http://www.bbc.co.uk/schools/0/ww1/26280176,BBC Schools - The Army
+http://www.bbc.co.uk/schools/0/ww1/25449511,BBC Schools - Assembly
+http://www.bbc.co.uk/schools/0/ww1/25582806,BBC Schools - Teachers' notes: End of the war and remembrance
+http://www.bbc.co.uk/schools/0/ww1/25434650,BBC Schools - Teachers' notes: Transport
+http://www.bbc.co.uk/schools/0/ww1/25826265,BBC Schools - WW1 Secondary
+http://www.bbc.co.uk/schools/0/ww1/25621757,BBC Schools - Image galleries - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25407951,BBC Schools - Death and legacy
+http://www.bbc.co.uk/schools/0/ww1/25401270,BBC Schools - War machines
+http://www.bbc.co.uk/schools/0/ww1/25579534,BBC Schools - Peace video (secondary) - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25451198,BBC Schools - Teachers' Notes
+http://www.bbc.co.uk/schools/0/ww1/25405396,BBC Schools - Poetry - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/26232916,BBC Schools - The young soldier
+http://www.bbc.co.uk/schools/0/ww1/25403866,BBC Schools - Treating soldiers - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25449512,BBC Schools - Teachers' Notes
+http://www.bbc.co.uk/schools/0/ww1/25436931,BBC Schools - Teachers' notes: How was the day structured?
+http://www.bbc.co.uk/schools/0/ww1/25453374,BBC Schools - Teachers' Notes - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25449507,BBC Schools - Introduction
+http://www.bbc.co.uk/schools/0/ww1/25407947,BBC Schools - After the war
+http://www.bbc.co.uk/schools/0/ww1/25237881,BBC Schools - Changing times - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25453366,BBC Schools - Assembly
+http://www.bbc.co.uk/schools/0/ww1/25213480,BBC Schools - Music at home
+http://www.bbc.co.uk/schools/0/ww1/25751024,BBC Schools - Teachers' notes: Walter Tull - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/26293982,BBC Schools - Defence - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25269805,BBC Schools - Primary and Secondary Assembly Packs
+http://www.bbc.co.uk/schools/0/ww1/25581772,BBC Schools - Teachers' notes: Animals during the war
+http://www.bbc.co.uk/schools/0/ww1/25453994,BBC Schools - Introduction
+http://www.bbc.co.uk/schools/0/ww1/25453373,BBC Schools - Assembly
+http://www.bbc.co.uk/schools/0/ww1/26374718,BBC Schools - Voluntary Aid Detachment Nurses
+http://www.bbc.co.uk/schools/0/ww1/25308203,BBC Schools - Shops
+http://www.bbc.co.uk/schools/0/ww1/25463539,BBC Schools - Commemoration video
+http://www.bbc.co.uk/schools/0/ww1/25453995,BBC Schools - Assembly - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25401268,BBC Schools - 1914 Christmas Truce
+http://www.bbc.co.uk/schools/0/ww1/25582809,BBC Schools - Teachers' notes: Wilfred Owen
+http://www.bbc.co.uk/schools/0/ww1/25268184,BBC Schools - Men's clothes
+http://www.bbc.co.uk/schools/0/ww1/25407950,BBC Schools - His poetry
+http://www.bbc.co.uk/schools/0/ww1/25232798,BBC Schools - Telegrams
+http://www.bbc.co.uk/schools/0/ww1/25199203,BBC Schools - Days out
+http://www.bbc.co.uk/schools/0/ww1/26388750,BBC Schools - Teachers' notes: Women's roles on the front line
+http://www.bbc.co.uk/schools/0/ww1/25446841,BBC Schools - Teachers' notes: What did children eat and drink?
+http://www.bbc.co.uk/schools/0/ww1/26280172,BBC Schools - Front line
+http://www.bbc.co.uk/schools/0/ww1/25403980,BBC Schools - Walter goes to war
+http://www.bbc.co.uk/schools/0/ww1/25307612,BBC Schools - Fathers at war - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/26370564,BBC Schools - Teachers' notes: Dame Caroline Haslett
+http://www.bbc.co.uk/schools/0/ww1/25406718,BBC Schools - Remembering Jack
+http://www.bbc.co.uk/schools/0/ww1/25453367,BBC Schools - Teachers' Notes
+http://www.bbc.co.uk/schools/0/ww1/25405397,BBC Schools - Who was Edith? - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25827997,BBC Schools - WW1 Primary - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/26189773,BBC Schools - Caroline's childhood
+http://www.bbc.co.uk/schools/0/ww1/26535500,BBC Schools - Business
+http://www.bbc.co.uk/schools/0/ww1/25238716,BBC Schools - Horse and cart - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/25832078,BBC Schools - Article transcript: Walter Tull
+http://www.bbc.co.uk/schools/0/ww1/26280181,BBC Schools - Reserved occupations
+http://www.bbc.co.uk/schools/0/ww1/25403981,BBC Schools - Remembering Walter
+http://www.bbc.co.uk/schools/0/ww1/25651653,BBC Schools - Teachers' notes: What was family life like?
+http://www.bbc.co.uk/schools/0/ww1/26374713,BBC Schools - Women's Army Auxiliary Corps
+http://www.bbc.co.uk/schools/0/ww1/25235365,BBC Schools - Keeping watch
+http://www.bbc.co.uk/schools/0/ww1/26189777,BBC Schools - Who was Haig?
+http://www.bbc.co.uk/schools/0/ww1/25235368,BBC Schools - The high street
+http://www.bbc.co.uk/schools/0/ww1/25628092,BBC Schools - Video clips
+http://www.bbc.co.uk/schools/0/ww1/25405402,BBC Schools - Military service - BBC.com
+http://www.bbc.co.uk/schools/0/ww1/26345061,BBC Schools - Front line
+http://www.bbc.co.uk/schools/0/ww1/26293981,BBC Schools - Industry - BBC.com

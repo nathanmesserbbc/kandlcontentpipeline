@@ -1,0 +1,180 @@
+url,text
+http://www.bbc.co.uk/food/0/23517236,BBC Food - British cherries make a sweet comeback
+http://www.bbc.co.uk/food/0/20587258,BBC Food - Christmas dinner: What would you eat?
+http://www.bbc.co.uk/food/0/21546491,BBC Food - Sherry: A drink for all year round?
+http://www.bbc.co.uk/food/0/25667659,BBC Food - Where has all the goats' cheese gone?
+http://www.bbc.co.uk/food/0/21035127,BBC Food - Celebrity fare: Famous foods named after famous people
+http://www.bbc.co.uk/food/0/19629189,BBC Food - In Pictures: Battle for British Cheese Awards title
+http://www.bbc.co.uk/food/0/24657348,BBC Food - Craft cocktail bitters: What are they?
+http://www.bbc.co.uk/food/0/21231566,BBC Food - Mary Berry and the grand dames of cooking
+http://www.bbc.co.uk/food/0/22167586,BBC Food - How healthy is your coffee?
+http://www.bbc.co.uk/food/0/22689914,BBC Food - Breakfast: Making a meal out of it - BBC.com
+http://www.bbc.co.uk/food/0/20695015,BBC Food - Evidence of world's 'oldest' cheese-making found
+http://www.bbc.co.uk/food/0/19585638,BBC Food - Honey suffers after bad year for bees
+http://www.bbc.co.uk/food/0/24615973,BBC Food - In pictures: A taste of Israel - BBC.com
+http://www.bbc.co.uk/food/0/19655891,BBC Food - Chef Q&A: Massimo Bottura on 'authentic' Italian food
+http://www.bbc.co.uk/food/0/24127086,BBC Food - Why do we turn up our noses at certain foods?
+http://www.bbc.co.uk/food/0/23695062,BBC Food - Jam's sticky situation: How much sugar is too much?
+http://www.bbc.co.uk/food/0/19370526,BBC Food - How English mustard almost lost its name
+http://www.bbc.co.uk/food/0/22433576,BBC Food - Outdoor gourmets: Cooking without a kitchen
+http://www.bbc.co.uk/food/0/24288422,BBC Food - What is Vietnamese pho?
+http://www.bbc.co.uk/food/0/22312547,BBC Food - Can you succeed in sport on a specialist diet?
+http://www.bbc.co.uk/food/0/27164636,BBC Food - How the UK fell in love with Chinese food
+http://www.bbc.co.uk/food/0/24432750,BBC Food - Curry: Where did it come from?
+http://www.bbc.co.uk/food/0/19422630,BBC Food - Aberdeen-Angus DNA tested to protect prime beef
+http://www.bbc.co.uk/food/0/23405801,BBC Food - Pea harvest: The race to pick the perfect pea
+http://www.bbc.co.uk/food/0/22515044,BBC Food - Perfect picnic: How to pack the perfect one
+http://www.bbc.co.uk/food/0/21260185,BBC Food - Eating insects: Would you cook with grubs?
+http://www.bbc.co.uk/food/0/23001464,BBC Food - Smoky flavours permeate foods and drinks
+http://www.bbc.co.uk/food/0/24335278,BBC Food - Cookery schools: Why do people pay so much money?
+http://www.bbc.co.uk/food/0/25433821,BBC Food - Nutmeg: The forgotten spice?
+http://www.bbc.co.uk/food/0/20629239,BBC Food - Giant snails: Would you eat them for Christmas?
+http://www.bbc.co.uk/food/0/23080825,BBC Food - Guilty pleasures: Foods we can't say no to
+http://www.bbc.co.uk/food/0/19968108,BBC Food - Sugar skulls and 'rotten' bananas: Mexico's surprising ...
+http://www.bbc.co.uk/food/0/19343285,BBC Food - Vanilla: The 'Chanel No 5' of flavours - BBC.com
+http://www.bbc.co.uk/food/0/23885313,BBC Food - Quinoa: Ancient grain being grown in UK
+http://www.bbc.co.uk/food/0/21754496,BBC Food - Grow-your-own: Is community growing worth the effort?
+http://www.bbc.co.uk/food/0/25214465,BBC Food - Fish fingers: How has the classic tea-time treat evolved?
+http://www.bbc.co.uk/food/0/19993496,BBC Food - Slow Food: what is its legacy?
+http://www.bbc.co.uk/food/0/24037899,BBC Food - Wheat: Twelve thousand year timeline
+http://www.bbc.co.uk/food/0/24522052,BBC Food - In pictures: Modernist cuisine
+http://www.bbc.co.uk/food/0/22552702,BBC Food - Can food help us cope with grief?
+http://www.bbc.co.uk/food/0/23529366,BBC Food - 'Superfoods': A healthy way to eat?
+http://www.bbc.co.uk/food/0/24627447,BBC Food - Do we still eat like the Romans?
+http://www.bbc.co.uk/food/0/22567354,BBC Food - Cancer and diet: Why is nutrition overlooked?
+http://www.bbc.co.uk/food/0/22653786,BBC Food - Sugar alternatives: What to use instead
+http://www.bbc.co.uk/food/0/22065407,BBC Food - Peanut butter alternatives gaining in popularity
+http://www.bbc.co.uk/food/0/25365633,BBC Food - Christmas kitchen gadgets bring joy to the home cook
+http://www.bbc.co.uk/food/0/22185875,BBC Food - Would you eat your dahlias?
+http://www.bbc.co.uk/food/0/20220073,BBC Food - Sweet and sour: Fine vinegars' battle to win fans
+http://www.bbc.co.uk/food/0/20625751,BBC Food - Are spices good for your health?
+http://www.bbc.co.uk/food/0/24144271,BBC Food - Pub grub: Is pub food good enough?
+http://www.bbc.co.uk/food/0/21896832,BBC Food - Making the most of goat farming
+http://www.bbc.co.uk/food/0/23980594,BBC Food - UK food harvest: What's produced in the UK?
+http://www.bbc.co.uk/food/0/20447024,BBC Food - The hard task of inventing a truly great dish
+http://www.bbc.co.uk/food/0/19834507,BBC Food - In pictures: Slow Food helps local producers go global
+http://www.bbc.co.uk/food/0/20561421,BBC Food - Christmas dinner: How traditional will yours be?
+http://www.bbc.co.uk/food/0/26139350,BBC Food - Sourcing food: Should we feel guilty about provenance?
+http://www.bbc.co.uk/food/0/24994257,BBC Food - Parmesan cheese: Meet Italy's pioneering cheese master
+http://www.bbc.co.uk/food/0/21323249,BBC Food - Pancake Day: Pancakes around the world
+http://www.bbc.co.uk/food/0/21300338,BBC Food - Restaurant makes the most of every morsel
+http://www.bbc.co.uk/food/0/20409260,BBC Food - Sake 'never fights with food'
+http://www.bbc.co.uk/food/0/21881076,BBC Food - Holi: The sweet and colourful taste of spring
+http://www.bbc.co.uk/food/0/24357698,BBC Food - Slow and pressure cookers find favour
+http://www.bbc.co.uk/food/0/23682059,BBC Food - Endangered cheeses: How do you save rare types?
+http://www.bbc.co.uk/food/0/20223931,BBC Food - No longer 'Chateau Chunder': Britain toasts Australian ...
+http://www.bbc.co.uk/food/0/23666332,BBC Food - Hungry detectives: Why crime novelists write about food
+http://www.bbc.co.uk/food/0/24927151,BBC Food - Ready meal lasagne: Can homemade beat it on price?
+http://www.bbc.co.uk/food/0/21519469,BBC Food - Hospital food: The chef that hopes to improve standards
+http://www.bbc.co.uk/food/0/25745902,BBC Food - What is bunny chow?
+http://www.bbc.co.uk/food/0/19558714,BBC Food - Will we be buying bacon and pork sausages next year?
+http://www.bbc.co.uk/food/0/19871017,BBC Food - In pictures: Taste for chocolate defies recession
+http://www.bbc.co.uk/food/0/22972268,BBC Food - Food texture's forgotten pleasures
+http://www.bbc.co.uk/food/0/19749800,BBC Food - Is boutique gin the tonic for shrinking spirits market?
+http://www.bbc.co.uk/food/0/20253159,BBC Food - Eating using all your senses
+http://www.bbc.co.uk/food/0/20330909,"BBC Food - Waiter, there's a clam in my beer"
+http://www.bbc.co.uk/food/0/25550504,BBC Food - Food awards: What difference does winning one make?
+http://www.bbc.co.uk/food/0/20409262,BBC Food - Wine or beer? The alcohol we 'choose' to drink
+http://www.bbc.co.uk/food/0/19589210,BBC Food - Cupcakes with more substance than style
+http://www.bbc.co.uk/food/0/22728585,BBC Food - Michael Pollan: We need to 'take back control of cooking'
+http://www.bbc.co.uk/food/0/21464842,BBC Food - Sherry's time to shine
+http://www.bbc.co.uk/food/0/24492424,BBC Food - In pictures: Handmade chocolate
+http://www.bbc.co.uk/food/0/26068619,BBC Food - Dinner time: Should families eat together every night?
+http://www.bbc.co.uk/food/0/19294585,BBC Food - Rise of the 'semi-vegetarians'
+http://www.bbc.co.uk/food/0/23276362,BBC Food - Chef Monica Galetti shows how to get kids to cook
+http://www.bbc.co.uk/food/0/23244456,BBC Food - Little chefs: How to get children to eat healthily
+http://www.bbc.co.uk/food/0/21419077,BBC Food - Food pairing with sherry
+http://www.bbc.co.uk/food/0/27198065,BBC Food - Bristol and the West: On the food map
+http://www.bbc.co.uk/food/0/20123168,BBC Food - Escoffier: Britain's first master chef
+http://www.bbc.co.uk/food/0/21884916,BBC Food - Goat meat: The new kid on the block
+http://www.bbc.co.uk/food/0/21447592,BBC Food - Champagne or sparkling wine? A battle of the bubbles
+http://www.bbc.co.uk/food/0/20170412,BBC Food - Does nostalgia or novelty drive our love of sweets?
+http://www.bbc.co.uk/food/0/19829220,BBC Food - Food fraud tackled by forensic scientists - BBC.com
+http://www.bbc.co.uk/food/0/22859753,BBC Food - Smoked ingredients add a dash of difference
+http://www.bbc.co.uk/food/0/21745425,BBC Food - Chocolate best matched seasonally - BBC.com
+http://www.bbc.co.uk/food/0/20416897,BBC Food - Fruit peel: Should we be eating more of it?
+http://www.bbc.co.uk/food/0/22654740,BBC Food - Sugar: The family that gave it up
+http://www.bbc.co.uk/food/0/19511248,BBC Food - Is it time to stop eating one of Britain's finest foods?
+http://www.bbc.co.uk/food/0/24015346,BBC Food - Concrete jungle: Should Londoners be eating 'local'?
+http://www.bbc.co.uk/food/0/20154487,BBC Food - Calf's head: The beef cuts Britain forgot
+http://www.bbc.co.uk/food/0/22847852,BBC Food - King of the grill: Embracing the American barbecue
+http://www.bbc.co.uk/food/0/20526851,BBC Food - Christmas dinner shortcuts: A survival guide
+http://www.bbc.co.uk/food/0/21441863,BBC Food - Love bites: Is food the risk-free gift?
+http://www.bbc.co.uk/food/0/19298162,BBC Food - Why are eggs now better for us?
+http://www.bbc.co.uk/food/0/22803933,BBC Food - Meat feast: Is it time to change the way we eat meat?
+http://www.bbc.co.uk/food/0/19899770,BBC Food - Halloween food: Cooking with blood
+http://www.bbc.co.uk/food/0/21636122,BBC Food - How to make the perfect marmalade - BBC.com
+http://www.bbc.co.uk/food/0/20515123,BBC Food - Was margherita pizza really named after Italy's queen?
+http://www.bbc.co.uk/food/0/23794962,BBC Food - Chillies: Britain's harvest raises fans' temperatures
+http://www.bbc.co.uk/food/0/21046338,BBC Food - Haggis 'not just for Burns Night'
+http://www.bbc.co.uk/food/0/22280282,BBC Food - Black pudding: Reinventing one of the world's oldest ...
+http://www.bbc.co.uk/food/0/21382595,BBC Food - Beef me up: The healthy alternatives to cheap ...
+http://www.bbc.co.uk/food/0/19648820,BBC Food - Has Italian food lost its 'authenticity'?
+http://www.bbc.co.uk/food/0/19991154,BBC Food - Venison back on British menu
+http://www.bbc.co.uk/food/0/22540908,BBC Food - Crisps: Is classic potato losing its appeal?
+http://www.bbc.co.uk/food/0/25465372,BBC Food - Chef holograms and tattooed fruit: The future of food?
+http://www.bbc.co.uk/food/0/23944179,BBC Food - Harvest: UK's most innovative crops
+http://www.bbc.co.uk/food/0/22340532,BBC Food - Defining dish: What represents your life on a plate?
+http://www.bbc.co.uk/food/0/24707359,BBC Food - Microwave meals: Can you cook good food from scratch?
+http://www.bbc.co.uk/food/0/19558634,BBC Food - Could 100-year-old sourdough be a myth?
+http://www.bbc.co.uk/food/0/21167649,BBC Food - Fish and chips: What does it take to make the best?
+http://www.bbc.co.uk/food/0/21864151,BBC Food - In pictures: Whisky tasting in a 'sensorium'
+http://www.bbc.co.uk/food/0/23900881,BBC Food - 'DIY' food: Home enthusiasts' eccentric concoctions
+http://www.bbc.co.uk/food/0/20082993,BBC Food - Home cooking: Is science the missing ingredient?
+http://www.bbc.co.uk/food/0/19731413,BBC Food - Are we ready to embrace the Michaelmas goose once ...
+http://www.bbc.co.uk/food/0/19248393,BBC Food - The return of retro recipes
+http://www.bbc.co.uk/food/0/21761941,BBC Food - Five ways to up your five a day
+http://www.bbc.co.uk/food/0/20339576,BBC Food - Why do we love to bake?
+http://www.bbc.co.uk/food/0/20171385,BBC Food - In pictures: Advertising from confectionery's golden age
+http://www.bbc.co.uk/food/0/24082660,BBC Food - Porridge - but not as you know it
+http://www.bbc.co.uk/food/0/24826616,BBC Food - Spirited drink: Premium vodka attracting fans - BBC.com
+http://www.bbc.co.uk/food/0/22263197,BBC Food - Popcorn grows up with new gourmet flavours
+http://www.bbc.co.uk/food/0/25353771,BBC Food - Healthy Christmas top tips - BBC.com
+http://www.bbc.co.uk/food/0/19625349,BBC Food - Honey mousse with port jelly and fresh raspberries
+http://www.bbc.co.uk/food/0/19244461,BBC Food - Has rain ruined Britain's fruit crops?
+http://www.bbc.co.uk/food/0/26257794,BBC Food - How the food miles 'myth' became a 'mantra'
+http://www.bbc.co.uk/food/0/19903596,BBC Food - A return to England's classic spirit
+http://www.bbc.co.uk/food/0/24902469,BBC Food - White round plates: Does food taste better on them?
+http://www.bbc.co.uk/food/0/25105617,BBC Food - British chorizo: Competing with Spain's famous sausage
+http://www.bbc.co.uk/food/0/19443467,BBC Food - Is cake 'less indulgent' than it was 50 years ago?
+http://www.bbc.co.uk/food/0/22026753,BBC Food - Cup of tea: Mastering the art of the perfect brew
+http://www.bbc.co.uk/food/0/21881077,BBC Food - Easter lamb: Should you buy NZ lamb?
+http://www.bbc.co.uk/food/0/19813810,BBC Food - James Bond: Does 007 eat all the wrong things?
+http://www.bbc.co.uk/food/0/21084219,BBC Food - Eating insects: Make mine a mealworm burger
+http://www.bbc.co.uk/food/0/19894988,BBC Food - Autumnal foraging: Is there anything left to pick?
+http://www.bbc.co.uk/food/0/23959853,BBC Food - Fruit and veg: The cutting edge - BBC.com
+http://www.bbc.co.uk/food/0/21745424,BBC Food - How to make Easter simnel truffles
+http://www.bbc.co.uk/food/0/24518801,BBC Food - Cookery school: What does it take to chop and slice like ...
+http://www.bbc.co.uk/food/0/21049152,BBC Food - Yorkshire forced rhubarb: Made in the dark
+http://www.bbc.co.uk/food/0/23884597,BBC Food - British chillies: Growing UK's hottest crop
+http://www.bbc.co.uk/food/0/21629415,BBC Food - Marmalade Awards: Making the best batch
+http://www.bbc.co.uk/food/0/23341780,BBC Food - Samphire season: Are you eating rock or marsh?
+http://www.bbc.co.uk/food/0/20915415,BBC Food - King cake: The reign of 'galette des rois'
+http://www.bbc.co.uk/food/0/24338417,BBC Food - Porridge: Why does it make you feel fuller for longer?
+http://www.bbc.co.uk/food/0/24842349,BBC Food - Audio slideshow: Serious about sugarcraft
+http://www.bbc.co.uk/food/0/25415157,BBC Food - Do Christmas kitchen gadgets make life easier?
+http://www.bbc.co.uk/food/0/23341780,BBC Food - Samphire season: Are you eating rock or marsh?
+http://www.bbc.co.uk/food/0/20915415,BBC Food - King cake: The reign of 'galette des rois'
+http://www.bbc.co.uk/food/0/24338417,BBC Food - Porridge: Why does it make you feel fuller for longer?
+http://www.bbc.co.uk/food/0/24842349,BBC Food - Audio slideshow: Serious about sugarcraft
+http://www.bbc.co.uk/food/0/25415157,BBC Food - Do Christmas kitchen gadgets make life easier?
+http://www.bbc.co.uk/food/0/23341780,BBC Food - Samphire season: Are you eating rock or marsh?
+http://www.bbc.co.uk/food/0/20915415,BBC Food - King cake: The reign of 'galette des rois'
+http://www.bbc.co.uk/food/0/24338417,BBC Food - Porridge: Why does it make you feel fuller for longer?
+http://www.bbc.co.uk/food/0/24842349,BBC Food - Audio slideshow: Serious about sugarcraft
+http://www.bbc.co.uk/food/0/25415157,BBC Food - Do Christmas kitchen gadgets make life easier?
+http://www.bbc.co.uk/food/0/23341780,BBC Food - Samphire season: Are you eating rock or marsh?
+http://www.bbc.co.uk/food/0/20915415,BBC Food - King cake: The reign of 'galette des rois'
+http://www.bbc.co.uk/food/0/24338417,BBC Food - Porridge: Why does it make you feel fuller for longer?
+http://www.bbc.co.uk/food/0/24842349,BBC Food - Audio slideshow: Serious about sugarcraft
+http://www.bbc.co.uk/food/0/25415157,BBC Food - Do Christmas kitchen gadgets make life easier?
+http://www.bbc.co.uk/food/0/23341780,BBC Food - Samphire season: Are you eating rock or marsh?
+http://www.bbc.co.uk/food/0/20915415,BBC Food - King cake: The reign of 'galette des rois'
+http://www.bbc.co.uk/food/0/24338417,BBC Food - Porridge: Why does it make you feel fuller for longer?
+http://www.bbc.co.uk/food/0/24842349,BBC Food - Audio slideshow: Serious about sugarcraft
+http://www.bbc.co.uk/food/0/25415157,BBC Food - Do Christmas kitchen gadgets make life easier?
+http://www.bbc.co.uk/food/0/23341780,BBC Food - Samphire season: Are you eating rock or marsh?
+http://www.bbc.co.uk/food/0/20915415,BBC Food - King cake: The reign of 'galette des rois'
+http://www.bbc.co.uk/food/0/24338417,BBC Food - Porridge: Why does it make you feel fuller for longer?
+http://www.bbc.co.uk/food/0/24842349,BBC Food - Audio slideshow: Serious about sugarcraft
+http://www.bbc.co.uk/food/0/25415157,BBC Food - Do Christmas kitchen gadgets make life easier?

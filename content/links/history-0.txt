@@ -1,0 +1,137 @@
+url,text
+http://www.bbc.co.uk/history/0/,BBC History - BBC History - BBC.com
+http://www.bbc.co.uk/history/0/22623324,BBC History - Royal baby: How births have been announced
+http://www.bbc.co.uk/history/0/22449987,BBC History - Northern Ireland's 'Path to Peace'
+http://www.bbc.co.uk/history/0/24572753,BBC History - Margaret Tudor: Scotland's forgotten queen
+http://www.bbc.co.uk/history/0/21670737,BBC History - Pompeii: What objects did people take as they fled?
+http://www.bbc.co.uk/history/0/22840690,BBC History - The White Queen: The real story of Elizabeth Woodville
+http://www.bbc.co.uk/history/0/22717883,BBC History - .
+http://www.bbc.co.uk/history/0/21770935,BBC History - Gretna dream: Why English lovers eloped to Scotland
+http://www.bbc.co.uk/history/0/20105140,Nuclear test veteran who flew through a mushroom cloud - BBC
+http://www.bbc.co.uk/history/0/21245426,BBC History - Why don't we still drive steam cars?
+http://www.bbc.co.uk/history/0/20205616,BBC History - GCHQ secret nearly blown by notes left in London pub
+http://www.bbc.co.uk/history/0/21261553,BBC History - In pictures: Who was the real Richard III?
+http://www.bbc.co.uk/history/0/23225725,"The White Queen, Elizabeth Woodville: Was she a witch? - BBC"
+http://www.bbc.co.uk/history/0/22301464,How Turner captured the death of sail - BBC
+http://www.bbc.co.uk/history/0/20180757,BBC History - In pictures: Letters home from the front
+http://www.bbc.co.uk/history/0/20979973,BBC History - Why the Industrial Revolution happened in Britain
+http://www.bbc.co.uk/history/0/23605029,BBC History - Family history: How to begin your family search
+http://www.bbc.co.uk/history/0/23931340,BBC History - The Wipers Times: the funny side of World War I
+http://www.bbc.co.uk/history/0/22771952,Is the absence of violence the same thing as real peace? - BBC
+http://www.bbc.co.uk/history/0/23815398,Martin Luther King's I Have a Dream speech: What does it tell us - BBC
+http://www.bbc.co.uk/history/0/20122581,BBC History - Baby killer? The last woman hanged in Edinburgh
+http://www.bbc.co.uk/history/0/20428167,BBC History - The opium wars: When Britain made war on China
+http://www.bbc.co.uk/history/0/23028830,BBC History - Presenting the past: History on TV
+http://www.bbc.co.uk/history/0/20700219,BBC History - The women who helped save wartime Christmas
+http://www.bbc.co.uk/history/0/22561595,"BBC History - Amelia Earhart, the first woman to fly the Atlantic"
+http://www.bbc.co.uk/history/0/20311399,BBC History - How we became addicted to sugar
+http://www.bbc.co.uk/history/0/22786616,BBC History - Apartheid's roots: The Natives Land Act
+http://www.bbc.co.uk/history/0/19923902,BBC History - The WWII interrogator who used kindness over violence
+http://www.bbc.co.uk/history/0/22387137,BBC History - John Knox and the Monstrous Regiment of Women
+http://www.bbc.co.uk/history/0/19270734,BBC History - Edward Payson Weston: 'The first sporting superstar'
+http://www.bbc.co.uk/history/0/22642686,BBC History - Highlights from Glasgow's Burrell Collection
+http://www.bbc.co.uk/history/0/20031142,BBC History - Stow Maries: How warfare took to the air
+http://www.bbc.co.uk/history/0/22555010,BBC History - Derry-Londonderry: A Short History
+http://www.bbc.co.uk/history/0/22469185,BBC History - Derry/Londonderry: A Short History
+http://www.bbc.co.uk/history/0/23574430,The White Queen - What happened to the Princes in the Tower? - BBC
+http://www.bbc.co.uk/history/0/23620012,BBC History - In pictures: Who was the real Richard III? - BBC.com
+http://www.bbc.co.uk/history/0/23632255,BBC History - Scottish Enlightenment: the age of genius in Edinburgh
+http://www.bbc.co.uk/history/0/22756895,BBC History - Scotch myth: How Sir Walter Scott turned Scotland tartan
+http://www.bbc.co.uk/history/0/22406644,BBC History - Culture wars: why attack heritage?
+http://www.bbc.co.uk/history/0/21498933,The Victorian crimes we remember today - BBC
+http://www.bbc.co.uk/history/0/19442872,BBC History - How Romans made marble statues 'real'
+http://www.bbc.co.uk/history/0/23681157,BBC History - The White Queen and The White Princess: What ...
+http://www.bbc.co.uk/history/0/21629772,"BBC History - In pictures: Francis Walsingham, Elizabeth I's spy master"
+http://www.bbc.co.uk/history/0/25436686,Boxer Jack Johnson's fight against inequality - BBC
+http://www.bbc.co.uk/history/0/24465242,The UK's worst mine disaster - BBC
+http://www.bbc.co.uk/history/0/22517894,BBC History - Glasgow 1938: Last exhibition of the British Empire
+http://www.bbc.co.uk/history/0/23347450,BBC History - The White Queen and medieval birth for a royal baby
+http://www.bbc.co.uk/history/0/19465391,BBC History - The Scot who shot the American Civil War
+http://www.bbc.co.uk/history/0/21525201,Dr Livingstone's medical legacy - BBC
+http://www.bbc.co.uk/history/0/19429391,BBC History - Could we stomach a return to a wartime diet?
+http://www.bbc.co.uk/history/0/23782042,BBC History - Why Belfast said no to the slave trade
+http://www.bbc.co.uk/history/0/21835405,"BBC History - James Dewar, the man who invented the thermos flask"
+http://www.bbc.co.uk/history/0/25870789,BBC History - The early Stuarts: marriage is power - BBC.com
+http://www.bbc.co.uk/history/0/22846633,BBC History - Derry-Londonderry: City of contrasts
+http://www.bbc.co.uk/history/0/22095027,BBC History - How anarchists exposed secret nuclear bunkers
+http://www.bbc.co.uk/history/0/21548716,England's most feared witch hunters - BBC
+http://www.bbc.co.uk/history/0/21048713,BBC History - Skivers versus strivers: The roots of the welfare state
+http://www.bbc.co.uk/history/0/23183272,BBC History - How the Nazis undermined eugenics
+http://www.bbc.co.uk/history/0/24709759,Hard work and herring girls - BBC
+http://www.bbc.co.uk/history/0/21034983,The men who created the steam engine - BBC
+http://www.bbc.co.uk/history/0/20097046,How the age of consent was raised to 16 - BBC
+http://www.bbc.co.uk/history/0/22596311,BBC History - Emily Davison: The suffragette who died for her cause
+http://www.bbc.co.uk/history/0/ww1/,BBC History - World War One Centenary - WW1 1914-1918
+http://www.bbc.co.uk/history/0/19927211,BBC History - Cuban missile crisis: On the brink of nuclear war
+http://www.bbc.co.uk/history/0/22155523,BBC History - The English Civil War: A read-and-write revolution
+http://www.bbc.co.uk/history/0/22682442,BBC History - William Burrell: The ships that bought an art collection
+http://www.bbc.co.uk/history/0/23493076,BBC History - Family History
+http://www.bbc.co.uk/history/0/21329663,BBC History - Who was the White Rose of Stalingrad?
+http://www.bbc.co.uk/history/0/22294640,BBC History - Hillman Imp: The car that drove Linwood to disaster
+http://www.bbc.co.uk/history/0/24961283,WW1 poetry: From Wilfred Owen to Woodbine Willie - BBC
+http://www.bbc.co.uk/history/0/21634967,BBC History - Keeping Britain's paddle steamers afloat
+http://www.bbc.co.uk/history/0/23315841,Black gold: How oil changed Aberdeen - BBC
+http://www.bbc.co.uk/history/0/21196249,BBC History - Searching for lost victims of Nazi human experiments
+http://www.bbc.co.uk/history/0/22874093,BBC History - International acclaim for Northern Ireland's Good ...
+http://www.bbc.co.uk/history/0/21431934,BBC History - Honour killings: when blood feuds ruled the clans
+http://www.bbc.co.uk/history/0/22874080,BBC History - Perthshire Cant: Secret language of Scottish travellers
+http://www.bbc.co.uk/history/0/23518445,"BBC History - What became of the White Queen, her family and foes?"
+http://www.bbc.co.uk/history/0/20469620,BBC History - In Pictures: Over the counter opium in the 1800s
+http://www.bbc.co.uk/history/0/23533226,"BBC History - Out of sight, out of mind: a nuclear legacy"
+http://www.bbc.co.uk/history/0/22903054,BBC History - Heathrow Airport: a step back in time
+http://www.bbc.co.uk/history/0/22298128,BBC History - The Genius of Turner: Painting the Industrial Revolution
+http://www.bbc.co.uk/history/0/22318048,BBC History - Tudors 1485-1603
+http://www.bbc.co.uk/history/0/23795766,BBC History - Flodden Field: Scotland attacks Henry VIII's England
+http://www.bbc.co.uk/history/0/22033825,BBC History - North Korea - a country never at peace
+http://www.bbc.co.uk/history/0/23756880,BBC History - Prince Albert's cultural legacy: Albertopolis
+http://www.bbc.co.uk/history/0/23334469,King James VI & I's journey to the throne - BBC
+http://www.bbc.co.uk/history/0/21866074,BBC History - In pictures: Death penalty - Tudor justice
+http://www.bbc.co.uk/history/0/21027982,BBC History - The Welsh Wizard: The art of the political nickname
+http://www.bbc.co.uk/history/0/19548364,BBC History - Out of Africa: The most important woman in history?
+http://www.bbc.co.uk/history/0/24330602,BBC History - Lord Castlereagh: Europe's forgotten father
+http://www.bbc.co.uk/history/0/19520636,"BBC History - 'Eggs, legs and Grimsby' - Viking words we still use"
+http://www.bbc.co.uk/history/0/22526843,3D model of 1938 Empire Exhibition - BBC
+http://www.bbc.co.uk/history/0/22115736,BBC History - Titanic: By the men who built it
+http://www.bbc.co.uk/history/0/23166321,BBC History - Differences between Cant and English
+http://www.bbc.co.uk/history/0/22846886,BBC History - Author Philippa Gregory talks about The White Queen
+http://www.bbc.co.uk/history/0/22841837,BBC History - Legacy of Northern Ireland's peace walls - BBC.com
+http://www.bbc.co.uk/history/0/24537358,BBC History - The Battle of Edgehill
+http://www.bbc.co.uk/history/0/21429098,BBC History - The London cabbie historian
+http://www.bbc.co.uk/history/0/22216457,BBC History - Belfast backstreets 100 years ago
+http://www.bbc.co.uk/history/0/20258255,BBC History - The Mughal Empire through art and culture - BBC.com
+http://www.bbc.co.uk/history/0/23780609,BBC History - The Mules of Minehead
+http://www.bbc.co.uk/history/0/ww1/25768752,BBC History - WW1 Interactive Guides - World War One Centenary
+http://www.bbc.co.uk/history/0/20258255,BBC History - The Mughal Empire through art and culture - BBC.com
+http://www.bbc.co.uk/history/0/23780609,BBC History - The Mules of Minehead
+http://www.bbc.co.uk/history/0/ww1/25768752,BBC History - WW1 Interactive Guides - World War One Centenary
+http://www.bbc.co.uk/history/0/20258255,BBC History - The Mughal Empire through art and culture - BBC.com
+http://www.bbc.co.uk/history/0/23780609,BBC History - The Mules of Minehead
+http://www.bbc.co.uk/history/0/ww1/25768752,BBC History - WW1 Interactive Guides - World War One Centenary
+http://www.bbc.co.uk/history/0/22216457,BBC History - Belfast backstreets 100 years ago
+http://www.bbc.co.uk/history/0/20258255,BBC History - The Mughal Empire through art and culture - BBC.com
+http://www.bbc.co.uk/history/0/23780609,BBC History - The Mules of Minehead
+http://www.bbc.co.uk/history/0/ww1/25768752,BBC History - WW1 Interactive Guides - World War One Centenary
+http://www.bbc.co.uk/history/0/22121741,BBC History - test
+http://www.bbc.co.uk/history/0/20258255,BBC History - The Mughal Empire through art and culture - BBC.com
+http://www.bbc.co.uk/history/0/23780609,BBC History - The Mules of Minehead
+http://www.bbc.co.uk/history/0/ww1/25768752,BBC History - WW1 Interactive Guides - World War One Centenary
+http://www.bbc.co.uk/history/0/20258255,BBC History - The Mughal Empire through art and culture - BBC.com
+http://www.bbc.co.uk/history/0/23780609,BBC History - The Mules of Minehead
+http://www.bbc.co.uk/history/0/ww1/25768752,BBC History - WW1 Interactive Guides - World War One Centenary
+http://www.bbc.co.uk/history/0/20258255,BBC History - The Mughal Empire through art and culture - BBC.com
+http://www.bbc.co.uk/history/0/23780609,BBC History - The Mules of Minehead
+http://www.bbc.co.uk/history/0/ww1/25768752,BBC History - WW1 Interactive Guides - World War One Centenary
+http://www.bbc.co.uk/history/0/20258255,BBC History - The Mughal Empire through art and culture - BBC.com
+http://www.bbc.co.uk/history/0/23780609,BBC History - The Mules of Minehead
+http://www.bbc.co.uk/history/0/ww1/25768752,BBC History - WW1 Interactive Guides - World War One Centenary
+http://www.bbc.co.uk/history/0/20258255,BBC History - The Mughal Empire through art and culture - BBC.com
+http://www.bbc.co.uk/history/0/23780609,BBC History - The Mules of Minehead
+http://www.bbc.co.uk/history/0/ww1/25768752,BBC History - WW1 Interactive Guides - World War One Centenary
+http://www.bbc.co.uk/history/0/22216457,BBC History - Belfast backstreets 100 years ago
+http://www.bbc.co.uk/history/0/20258255,BBC History - The Mughal Empire through art and culture - BBC.com
+http://www.bbc.co.uk/history/0/23780609,BBC History - The Mules of Minehead
+http://www.bbc.co.uk/history/0/ww1/25768752,BBC History - WW1 Interactive Guides - World War One Centenary
+http://www.bbc.co.uk/history/0/22121741,BBC History - test
+http://www.bbc.co.uk/history/0/20258255,BBC History - The Mughal Empire through art and culture - BBC.com
+http://www.bbc.co.uk/history/0/23780609,BBC History - The Mules of Minehead
+http://www.bbc.co.uk/history/0/ww1/25768752,BBC History - WW1 Interactive Guides - World War One Centenary

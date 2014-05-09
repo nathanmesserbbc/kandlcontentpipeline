@@ -1,0 +1,188 @@
+url,text
+http://www.bbc.co.uk/science/0/,BBC Science - BBC Science - BBC.com
+http://www.bbc.co.uk/science/0/20629944,BBC Science - Space travel: Rob Coppinger answers your questions
+http://www.bbc.co.uk/science/0/21360144,BBC Science - The Big Money Test - results
+http://www.bbc.co.uk/science/0/23695785,BBC Science - Frozen body: Can we return from the dead?
+http://www.bbc.co.uk/science/0/22488580,BBC Science - How the heart reacts at 200mph
+http://www.bbc.co.uk/science/0/22006066,BBC Science - How can the results from a web survey represent a ...
+http://www.bbc.co.uk/science/0/20932483,BBC Science - How do we know the Big Bang happened?
+http://www.bbc.co.uk/science/0/25401782,BBC Science - How do I take a beautiful photo of space? - BBC.com
+http://www.bbc.co.uk/science/0/21857582,BBC Science - What causes Asthma? - BBC.com
+http://www.bbc.co.uk/science/0/21969416,BBC Science - What is pneumonia and why can it be so deadly?
+http://www.bbc.co.uk/science/0/22341876,How science made Everest easier - BBC
+http://www.bbc.co.uk/science/0/22028516,BBC Science - Why is cancer so common?
+http://www.bbc.co.uk/science/0/21478094,BBC Science - What is the future for diabetes treatment?
+http://www.bbc.co.uk/science/0/24451567,BBC Science - The Stress Test - Results
+http://www.bbc.co.uk/science/0/21938018,BBC Science - Four ways to be killed by a volcano
+http://www.bbc.co.uk/science/0/20915340,BBC Science - What makes Mars so hostile to life?
+http://www.bbc.co.uk/science/0/20937803,BBC Science - How do telescopes let us see so far into space?
+http://www.bbc.co.uk/science/0/21835302,BBC Science - Why is sugar so addictive?
+http://www.bbc.co.uk/science/0/21700034,BBC Science - What is autism?
+http://www.bbc.co.uk/science/0/20665841,BBC Science - Q&A: The science of what bugs us
+http://www.bbc.co.uk/science/0/21143412,BBC Science - Why can't we beat viruses?
+http://www.bbc.co.uk/science/0/22028517,BBC Science - How does the body fight off a virus?
+http://www.bbc.co.uk/science/0/22270604,BBC Science - In Pictures: The story behind DNA's double helix
+http://www.bbc.co.uk/science/0/21878238,BBC Science - The dementia timebomb
+http://www.bbc.co.uk/science/0/22028518,BBC Science - When does your mental health become a problem?
+http://www.bbc.co.uk/science/0/22956681,BBC Science - The science of the summer solstice
+http://www.bbc.co.uk/science/0/22941835,BBC Science - How to: discover if you're a super-taster
+http://www.bbc.co.uk/science/0/23590545,Can cognitive behavioural therapy really change our brains? - BBC
+http://www.bbc.co.uk/science/0/22019289,BBC Science - Healthy living: How to live longer
+http://www.bbc.co.uk/science/0/21660191,BBC Science - Five ways to be more creative
+http://www.bbc.co.uk/science/0/21604336,BBC Science - Martin Lewis's money saving tips
+http://www.bbc.co.uk/science/0/21843942,BBC Science - How much sugar is hiding in your food?
+http://www.bbc.co.uk/science/0/21938023,BBC Science - What is a pyroclastic flow?
+http://www.bbc.co.uk/science/0/24206119,BBC Science - Brian Cox: The wonder of British science
+http://www.bbc.co.uk/science/0/19627784,BBC Science - Chemical resistant bed bugs spread in UK
+http://www.bbc.co.uk/science/0/23065582,BBC Science - How to: instantly turn water into ice
+http://www.bbc.co.uk/science/0/22028519,BBC Science - Healthy eating: Is this the ultimate healthy meal?
+http://www.bbc.co.uk/science/0/23033112,BBC Science - How to: make a magnetic compass
+http://www.bbc.co.uk/science/0/22078983,BBC Science - Are great scientists always heretics?
+http://www.bbc.co.uk/science/0/22199991,BBC Science - DNA: the 'smartest' molecule in existence?
+http://www.bbc.co.uk/science/0/24460393,BBC Science - The periodic table: how elements get their names
+http://www.bbc.co.uk/science/0/21860179,BBC Science - Can the taste of sugar improve concentration?
+http://www.bbc.co.uk/science/0/22001963,BBC Science - How do you identify new types of class?
+http://www.bbc.co.uk/science/0/22454299,BBC Science - Skylab: Why don't we live in space yet? - BBC.com
+http://www.bbc.co.uk/science/0/22201194,BBC Science - What is cancer?
+http://www.bbc.co.uk/science/0/20427553,BBC Science - Five things that stop a good night's sleep
+http://www.bbc.co.uk/science/0/21704103,BBC Science - What is diabetes?
+http://www.bbc.co.uk/science/0/25401783,BBC Science - Take close-ups using a camera and a telescope
+http://www.bbc.co.uk/science/0/20205874,BBC Science - How does DNA testing work?
+http://www.bbc.co.uk/science/0/22600308,BBC Science - How to: make a microscope from a webcam
+http://www.bbc.co.uk/science/0/22615354,BBC Science - How to: test Galileo's scaling laws - BBC.com
+http://www.bbc.co.uk/science/0/20678536,BBC Science - The family living with type 1 diabetes
+http://www.bbc.co.uk/science/0/22020430,BBC Science - What is depression?
+http://www.bbc.co.uk/science/0/24837130,Attenborough: The forgotten story of Alfred Russel Wallace - BBC
+http://www.bbc.co.uk/science/0/20945051,BBC Science - Whatever happened to Pluto?
+http://www.bbc.co.uk/science/0/24642256,BBC Science - How do you close a nuclear power station? - BBC.com
+http://www.bbc.co.uk/science/0/21685308,The quest to harness spider silk - BBC
+http://www.bbc.co.uk/science/0/21702372,BBC Science - What are the health risks of obesity?
+http://www.bbc.co.uk/science/0/21793377,BBC Science - The secret life of the Sun
+http://www.bbc.co.uk/science/0/21673605,BBC Science - What is high blood pressure?
+http://www.bbc.co.uk/science/0/21149223,BBC Science - Michael Mosley meets 'Vomiting Larry' - BBC.com
+http://www.bbc.co.uk/science/0/20303853,BBC Science - Steve Jones Q&A: Sex and genetics
+http://www.bbc.co.uk/science/0/21685448,BBC Science - What is stress?
+http://www.bbc.co.uk/science/0/25401784,BBC Science - Using your computer to take photos deep in space
+http://www.bbc.co.uk/science/0/20396106,Dr Tara Shears answers your questions on space physics - BBC.com
+http://www.bbc.co.uk/science/0/23261653,BBC Science - 'Binge eating has scarred my liver' - BBC.com
+http://www.bbc.co.uk/science/0/22454785,"BBC Science - Richard Feynman on flowers, artists and scientists"
+http://www.bbc.co.uk/science/0/21755753,BBC Science - What affects your fertility?
+http://www.bbc.co.uk/science/0/21858967,The silent spread of sexually transmitted infections (STIs) - BBC
+http://www.bbc.co.uk/science/0/22880407,BBC Science - How to: make a liquid that's also a solid
+http://www.bbc.co.uk/science/0/21686950,BBC Science - What causes coronary heart disease?
+http://www.bbc.co.uk/science/0/22170070,BBC Science - The ceramic used in bullet-stopping body armour
+http://www.bbc.co.uk/science/0/23003927,BBC Science - Mysterious summer clouds of the night
+http://www.bbc.co.uk/science/0/25464468,BBC Science - How do I take a beautiful photo of the night sky?
+http://www.bbc.co.uk/science/0/20910158,BBC Science - The man putting Northern Ireland in space - BBC.com
+http://www.bbc.co.uk/science/0/22513815,BBC Science - The Integrated Space Plan
+http://www.bbc.co.uk/science/0/23851674,BBC Science - Using magnetism to clean up oil slicks
+http://www.bbc.co.uk/science/0/21298325,BBC Science - Steve Jones describes DNA testing
+http://www.bbc.co.uk/science/0/25464469,BBC Science - Taking space close-ups with a camera and a telescope
+http://www.bbc.co.uk/science/0/22651765,BBC Science - How The Heart Reacts at 200mph
+http://www.bbc.co.uk/science/0/21720299,BBC Science - How do our brains come up with ideas?
+http://www.bbc.co.uk/science/0/21896055,BBC Science - What is DNA?
+http://www.bbc.co.uk/science/0/20973783,BBC Science - Stargazing Live: Space photos by viewers - BBC.com
+http://www.bbc.co.uk/science/0/23669432,BBC Science - How the freezing process damages cells
+http://www.bbc.co.uk/science/0/25464470,BBC Science - Take great photos of planets with a webcam - BBC.com
+http://www.bbc.co.uk/science/0/23535784,Mark Miodownik tries hacking a webcam into a microscope - BBC.com
+http://www.bbc.co.uk/science/0/23550737,BBC Science - Liquid or solid?
+http://www.bbc.co.uk/science/0/23405045,BBC Science - Ricky Grover on living with diabetes and liver fibrosis
+http://www.bbc.co.uk/science/0/22651765,BBC Science - How The Heart Reacts at 200mph
+http://www.bbc.co.uk/science/0/21720299,BBC Science - How do our brains come up with ideas?
+http://www.bbc.co.uk/science/0/21896055,BBC Science - What is DNA?
+http://www.bbc.co.uk/science/0/20973783,BBC Science - Stargazing Live: Space photos by viewers - BBC.com
+http://www.bbc.co.uk/science/0/23669432,BBC Science - How the freezing process damages cells
+http://www.bbc.co.uk/science/0/25464470,BBC Science - Take great photos of planets with a webcam - BBC.com
+http://www.bbc.co.uk/science/0/23535784,Mark Miodownik tries hacking a webcam into a microscope - BBC.com
+http://www.bbc.co.uk/science/0/23550737,BBC Science - Liquid or solid?
+http://www.bbc.co.uk/science/0/23405045,BBC Science - Ricky Grover on living with diabetes and liver fibrosis
+http://www.bbc.co.uk/science/0/22651765,BBC Science - How The Heart Reacts at 200mph
+http://www.bbc.co.uk/science/0/21720299,BBC Science - How do our brains come up with ideas?
+http://www.bbc.co.uk/science/0/21896055,BBC Science - What is DNA?
+http://www.bbc.co.uk/science/0/20973783,BBC Science - Stargazing Live: Space photos by viewers - BBC.com
+http://www.bbc.co.uk/science/0/23669432,BBC Science - How the freezing process damages cells
+http://www.bbc.co.uk/science/0/25464470,BBC Science - Take great photos of planets with a webcam - BBC.com
+http://www.bbc.co.uk/science/0/23535784,Mark Miodownik tries hacking a webcam into a microscope - BBC.com
+http://www.bbc.co.uk/science/0/23550737,BBC Science - Liquid or solid?
+http://www.bbc.co.uk/science/0/23405045,BBC Science - Ricky Grover on living with diabetes and liver fibrosis
+http://www.bbc.co.uk/science/0/22651765,BBC Science - How The Heart Reacts at 200mph
+http://www.bbc.co.uk/science/0/21720299,BBC Science - How do our brains come up with ideas?
+http://www.bbc.co.uk/science/0/21896055,BBC Science - What is DNA?
+http://www.bbc.co.uk/science/0/20973783,BBC Science - Stargazing Live: Space photos by viewers - BBC.com
+http://www.bbc.co.uk/science/0/23669432,BBC Science - How the freezing process damages cells
+http://www.bbc.co.uk/science/0/25464470,BBC Science - Take great photos of planets with a webcam - BBC.com
+http://www.bbc.co.uk/science/0/23535784,Mark Miodownik tries hacking a webcam into a microscope - BBC.com
+http://www.bbc.co.uk/science/0/23550737,BBC Science - Liquid or solid?
+http://www.bbc.co.uk/science/0/23405045,BBC Science - Ricky Grover on living with diabetes and liver fibrosis
+http://www.bbc.co.uk/science/0/22651765,BBC Science - How The Heart Reacts at 200mph
+http://www.bbc.co.uk/science/0/21720299,BBC Science - How do our brains come up with ideas?
+http://www.bbc.co.uk/science/0/21896055,BBC Science - What is DNA?
+http://www.bbc.co.uk/science/0/20973783,BBC Science - Stargazing Live: Space photos by viewers - BBC.com
+http://www.bbc.co.uk/science/0/23669432,BBC Science - How the freezing process damages cells
+http://www.bbc.co.uk/science/0/25464470,BBC Science - Take great photos of planets with a webcam - BBC.com
+http://www.bbc.co.uk/science/0/23535784,Mark Miodownik tries hacking a webcam into a microscope - BBC.com
+http://www.bbc.co.uk/science/0/23550737,BBC Science - Liquid or solid?
+http://www.bbc.co.uk/science/0/23405045,BBC Science - Ricky Grover on living with diabetes and liver fibrosis
+http://www.bbc.co.uk/science/0/22651765,BBC Science - How The Heart Reacts at 200mph
+http://www.bbc.co.uk/science/0/21720299,BBC Science - How do our brains come up with ideas?
+http://www.bbc.co.uk/science/0/21896055,BBC Science - What is DNA?
+http://www.bbc.co.uk/science/0/20973783,BBC Science - Stargazing Live: Space photos by viewers - BBC.com
+http://www.bbc.co.uk/science/0/23669432,BBC Science - How the freezing process damages cells
+http://www.bbc.co.uk/science/0/25464470,BBC Science - Take great photos of planets with a webcam - BBC.com
+http://www.bbc.co.uk/science/0/23535784,Mark Miodownik tries hacking a webcam into a microscope - BBC.com
+http://www.bbc.co.uk/science/0/23550737,BBC Science - Liquid or solid?
+http://www.bbc.co.uk/science/0/23405045,BBC Science - Ricky Grover on living with diabetes and liver fibrosis
+http://www.bbc.co.uk/science/0/22651765,BBC Science - How The Heart Reacts at 200mph
+http://www.bbc.co.uk/science/0/21720299,BBC Science - How do our brains come up with ideas?
+http://www.bbc.co.uk/science/0/21896055,BBC Science - What is DNA?
+http://www.bbc.co.uk/science/0/20973783,BBC Science - Stargazing Live: Space photos by viewers - BBC.com
+http://www.bbc.co.uk/science/0/23669432,BBC Science - How the freezing process damages cells
+http://www.bbc.co.uk/science/0/25464470,BBC Science - Take great photos of planets with a webcam - BBC.com
+http://www.bbc.co.uk/science/0/23535784,Mark Miodownik tries hacking a webcam into a microscope - BBC.com
+http://www.bbc.co.uk/science/0/23550737,BBC Science - Liquid or solid?
+http://www.bbc.co.uk/science/0/23405045,BBC Science - Ricky Grover on living with diabetes and liver fibrosis
+http://www.bbc.co.uk/science/0/22651765,BBC Science - How The Heart Reacts at 200mph
+http://www.bbc.co.uk/science/0/21720299,BBC Science - How do our brains come up with ideas?
+http://www.bbc.co.uk/science/0/21896055,BBC Science - What is DNA?
+http://www.bbc.co.uk/science/0/20973783,BBC Science - Stargazing Live: Space photos by viewers - BBC.com
+http://www.bbc.co.uk/science/0/23669432,BBC Science - How the freezing process damages cells
+http://www.bbc.co.uk/science/0/25464470,BBC Science - Take great photos of planets with a webcam - BBC.com
+http://www.bbc.co.uk/science/0/23535784,Mark Miodownik tries hacking a webcam into a microscope - BBC.com
+http://www.bbc.co.uk/science/0/23550737,BBC Science - Liquid or solid?
+http://www.bbc.co.uk/science/0/23405045,BBC Science - Ricky Grover on living with diabetes and liver fibrosis
+http://www.bbc.co.uk/science/0/22651765,BBC Science - How The Heart Reacts at 200mph
+http://www.bbc.co.uk/science/0/21720299,BBC Science - How do our brains come up with ideas?
+http://www.bbc.co.uk/science/0/21896055,BBC Science - What is DNA?
+http://www.bbc.co.uk/science/0/20973783,BBC Science - Stargazing Live: Space photos by viewers - BBC.com
+http://www.bbc.co.uk/science/0/23669432,BBC Science - How the freezing process damages cells
+http://www.bbc.co.uk/science/0/25464470,BBC Science - Take great photos of planets with a webcam - BBC.com
+http://www.bbc.co.uk/science/0/23535784,Mark Miodownik tries hacking a webcam into a microscope - BBC.com
+http://www.bbc.co.uk/science/0/23550737,BBC Science - Liquid or solid?
+http://www.bbc.co.uk/science/0/23405045,BBC Science - Ricky Grover on living with diabetes and liver fibrosis
+http://www.bbc.co.uk/science/0/22651765,BBC Science - How The Heart Reacts at 200mph
+http://www.bbc.co.uk/science/0/21720299,BBC Science - How do our brains come up with ideas?
+http://www.bbc.co.uk/science/0/21896055,BBC Science - What is DNA?
+http://www.bbc.co.uk/science/0/20973783,BBC Science - Stargazing Live: Space photos by viewers - BBC.com
+http://www.bbc.co.uk/science/0/23669432,BBC Science - How the freezing process damages cells
+http://www.bbc.co.uk/science/0/25464470,BBC Science - Take great photos of planets with a webcam - BBC.com
+http://www.bbc.co.uk/science/0/23535784,Mark Miodownik tries hacking a webcam into a microscope - BBC.com
+http://www.bbc.co.uk/science/0/23550737,BBC Science - Liquid or solid?
+http://www.bbc.co.uk/science/0/23405045,BBC Science - Ricky Grover on living with diabetes and liver fibrosis
+http://www.bbc.co.uk/science/0/22651765,BBC Science - How The Heart Reacts at 200mph
+http://www.bbc.co.uk/science/0/21720299,BBC Science - How do our brains come up with ideas?
+http://www.bbc.co.uk/science/0/21896055,BBC Science - What is DNA?
+http://www.bbc.co.uk/science/0/20973783,BBC Science - Stargazing Live: Space photos by viewers - BBC.com
+http://www.bbc.co.uk/science/0/23669432,BBC Science - How the freezing process damages cells
+http://www.bbc.co.uk/science/0/25464470,BBC Science - Take great photos of planets with a webcam - BBC.com
+http://www.bbc.co.uk/science/0/23535784,Mark Miodownik tries hacking a webcam into a microscope - BBC.com
+http://www.bbc.co.uk/science/0/23550737,BBC Science - Liquid or solid?
+http://www.bbc.co.uk/science/0/23405045,BBC Science - Ricky Grover on living with diabetes and liver fibrosis
+http://www.bbc.co.uk/science/0/22651765,BBC Science - How The Heart Reacts at 200mph
+http://www.bbc.co.uk/science/0/21720299,BBC Science - How do our brains come up with ideas?
+http://www.bbc.co.uk/science/0/21896055,BBC Science - What is DNA?
+http://www.bbc.co.uk/science/0/20973783,BBC Science - Stargazing Live: Space photos by viewers - BBC.com
+http://www.bbc.co.uk/science/0/23669432,BBC Science - How the freezing process damages cells
+http://www.bbc.co.uk/science/0/25464470,BBC Science - Take great photos of planets with a webcam - BBC.com
+http://www.bbc.co.uk/science/0/23535784,Mark Miodownik tries hacking a webcam into a microscope - BBC.com
+http://www.bbc.co.uk/science/0/23550737,BBC Science - Liquid or solid?
+http://www.bbc.co.uk/science/0/23405045,BBC Science - Ricky Grover on living with diabetes and liver fibrosis
